@@ -34,5 +34,7 @@ if __name__=='__main__':
             continue
             # path2 = "NULLSKIP"
         # print "%s\t <-- \t%s" % (path2, line.strip())
-        print '\t'.join([cameocode, path2])
+        # print '\t'.join([cameocode, path2])
+        print "%s [%s]" % (path2, cameocode)
+
 

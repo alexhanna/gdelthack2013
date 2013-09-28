@@ -1,500 +1,500 @@
-042	kill in_
-042	send to_
-042	be in_
-042	have troops in_
-042	die in_
-0874	withdraw from_
-042	leave
-042	remain in_
-042	pull out_of_
-042	hold in_
-042	have in_
-042	deploy in_
-042	train
-042	have soldier in_
-042	invade
-042	say send to_
-042	be since_ invasion of_
-042	wound in_
-042	take in_
-042	condemn in_
-042	urge in_
-042	use in_
-042	call in_
-042	extend in_
-042	kill in_ attack in_
-042	say in_
-046	discuss
-042	say be in_
-042	say
-042	serve in_
-042	crash in_
-042	say withdraw from_
-042	stay in_
-042	arrive in_
-042	oppose in_
-042	dispatch to_
-042	station in_
-042	detain in_
-042	maintain troops in_
-042	maintain in_
-042	hand to_
-042	play in_
-042	have troops station in_
-042	provide to_
-042	kidnap in_
-042	warn in_
-042	lead in_
-042	oppose invasion of_
-042	arrest in_
-042	broker in_
-051	join
-020	call for_
-051	member of_
-020	urge
-051	push for_
-051	tell
-051	welcome
-051	seek
-051	support
-129	veto
-051	impose after_ invasion of_
-051	want
-020	call on_
-051	submit to_
-051	hold
-051	country sign with_
-051	block
-051	hold presidency of_
-051	ask
-051	take
-020	propose
-032	back
-051	present to_
-051	circulate
-051	oppose
-051	impose invade
-051	press for_
-051	hail
-051	press
-051	lead
-051	introduce
-051	say
-057	sign with_
-051	lose
-042	attend
-051	apply for_
-051	urge cooperate with_
-051	hold presidency
-051	call
-051	say at_
-051	contribute to_
-051	start with_
-046	discuss
-051	push
-051	contributor to_
-030	hope join
-051	say support
-051	call for_ meeting of_
-051	enter
-051	say seek
-190	kill
-190	invade
-0874	withdraw from_
-190	kill in_
-190	capture from_
-190	enter
-190	launch against_
-190	launch in_
-190	send into_
-190	launch on_
-084	release
-190	bomb
-190	seal
-190	attack
-192	move into_
-190	seize from_
-190	impose on_
-190	set zone in_
-190	raid
-190	occupy
-193	shoot
-190	pull out_of_
-190	strike
-190	destroy
-190	capture
-190	bomb in_
-190	fire at_
-190	free
-190	launch into_
-190	fire in_
-173	seize
-190	attack in_
-190	cross into_
-190	hit
-190	strike in_
-190	wound in_
-190	carry in_
-190	close
-190	pound
-190	hold
-190	occupy in_
-190	annex
-190	hit in_
-190	fly over_
-190	kill palestinians in_
-173	arrest
-190	leave
-190	fire on_
-190	pull from_
-192	roll into_
-040	meet with_
-042	visit
-042	arrive in_
-042	meet
-042	hold with_
-042	send to_
-036	leave for_
-042	tell
-042	make to_
-051	praise
-042	pay to_
-042	leave
-042	partner
-020	urge
-042	return to_
-042	be in_
-042	travel to_
-051	congratulate
-042	arrive to_
-040	meet in_
-036	fly to_
-046	discuss with_
-042	say with_
-042	arrive with_
-042	leave to_
-042	begin to_
-042	meet visit
-042	say in_
-042	arrive for_ talk with_
-042	head to_
-042	press
-042	hold in_
-042	say
-042	begin with_
-042	go to_
-042	offer to_
-042	be meet with_
-030	assure
-020	call on_
-042	ask
-042	work with_
-042	say to_
-042	due in_
-051	thank
-051	welcome
-042	extend to_
-042	arrive for_ visit to_
-042	say visit
-042	provide to_
-042	come to_
-111!	condemn
-111	kill by_
-111	fight from_
-190	fire at_
-111	recognize
-111	condemn in_
-111	kill in_
-020	call on_
-111	fire into_
-190	kill
-111	fight win from_
-111	condemn on_
-111	fight gain from_
-111	say
-111	condemn attack in_
-111	denounce
-111	condemn by_
-111	fire on_
-111	fight gain from_
-111	condemn bombing in_
-111	open on_
-111	slam
-175	clash with_
-190	attack
-111	condemn attack on_
-112	accuse
-111	say kill in_
-111	report
-020	call for_
-111	refuse recognize
-111	hit
-111	say fire at_
-051	say recognize
-111	end
-111	throw at_
-111	shoot dead by_
-020	urge
-111	wound by_
-111	kill with_
-111	criticise by_
-018	condemn assassination of_
-111	run end
-111	recognize sovereignty
-111	say fire on_
-111	administer halt
-111	run halt
-111	call for_ destruction
-111	kill during_
-111	recognize independence
-111	run bomb stop on_
-057	sign with_
-051	join
-051	ally of_
-032	back
-051	part of_
-051	ally
-051	support
-051	have with_
-051	provide
-051	province of_
-051	leg of_ tour take to_
-051	welcome
-043	host
-051	sell to_
-051	side with_
-051	provide to_
-051	take from_
-051	supplier to_
-051	maintain with_
-051	allow
-051	declare from_
-051	buy
-051	have relation with_
-051	reach with_
-051	help
-051	receive from_
-051	buy from_
-051	rely on_
-051	have
-051	send to_
-051	member along_with_
-051	win from_
-051	gain from_
-051	supplier
-051	work with_
-051	offer to_
-051	give to_
-051	offer
-051	give
-051	have treaty with_
-051	have tie with_
-051	lose to_
-051	extradite to_
-051	_
-051	build in_
-051	one along_with_
-051	export to_
-051	cancel to_
-046	receive
-051	say support
-020	call on_
-020	urge
-051	impose on_
-130	warn
-051	call
-046	discuss
-051	give
-051	give
-051	say
-020	call for_
-051	meet on_
-051	impose against_
-050	negotiate with_
-051	hold on_
-051	call to_
-051	suspend to_
-051	cut to_
-051	welcome
-051	offer
-020	appeal to_
-051	call in_
-051	give to_
-051	oppose against_
-051	invite
-051	express in_
-051	slap on_
-051	impose sanction on_
-051	urge to_
-051	approve
-051	call from_
-051	provide to_
-051	hold with_
-051	press
-051	send to_
-051	put on_
-111!	condemn
-051	say on_
-051	oppose on_
-051	open with_
-172	ban
-051	apply to_
-051	deliver to_
-051	urge in_
-051	lift on_
-051	welcome on_
-051	express on_
-051	ban from_
-051	welcome by_
-051	set for_
-046	meet discuss
-120	reject
-020	criticize
-020	urge
-020	tell
-020	call on_
-130	warn
-020	be under_
-020	ask
-020	oppose
-020	say
-111!	condemn
-020	slam
-020	send to_
-020	accept
-020	deny
-051	welcome
-020	demand
-111	denounce
-112	accuse
-110	dismiss
-020	call for_
-020	inform
-020	lash at_
-020	call
-020	cooperate with_
-020	reject by_
-020	criticise
-020	agree with_
-020	want
-040	summon
-040	meet with_
-020	appeal to_
-020	agree to_
-141	protest to_
-114	complain to_
-020	express over_
-020	resist
-020	blast
-020	hand to_
-112	implicate
-020	express to_
-020	suspend with_
-020	hold with_
-020	allow
-020	lodge with_
-128	defy
-020	comply with_
-020	write to_
-020	give
-020	hit at_
-112	accuse
-112	blame
-130	warn
-174	expel
-111	deny
-111	say
-111	regard
-111	consider
-190	attack
-130	break with_
-111	claim
-111	sever with_
-111	call
-111	denounce
-111	slam
-111!	condemn
-173	detain
-111	lash at_
-120	reject
-111	threaten attack
-111	blame on_
-111	criticize
-080	flee to_
-084	release
-110	dismiss
-111	recall to_
-111	charge
-111	cut with_
-111	threaten
-111	brand
-111	stand for_
-111	suspect
-111	rule with_
-111	view
-111	see
-111	say
-111	say come from_
-111	reject with_
-111	demand with_
-010	describe
-111	have relation with_
-111	invite
-111	have with_
-111	offer to_
-111	call with_
-111	threaten invade
-111	order
-111	suspend with_
-173	arrest
-111	intercept
-0356	vow disarm
-036	split enter after_ coup
-036	threaten use disarm
-036	withdraw on_
-036	threaten disarm
-036	ask expel
-036	launch under_ pretext disarm
-036	launch in_ bid topple
-036	parachute into_
-036	remain take after_ coup by_
-036	say haven area
-036	propose deliver to_
-036	drop leaflet over_
-036	mass around_
-036	set zone over_
-036	withdraw seek disarm
-036	launch topple
-036	withdraw resolution on_
-190	say kill
-036	go to_ war against_
-036	go to_ war with_
-036	step preparation for_ war on_
-036	say play rebuild
-036	say run for_
-036	sponsor declare
-036	threaten war against_
-036	submit resolution on_
-036	remain take by_
-036	launch war on_
-036	use enforce zone over_
-036	step attack on_ militant in_
-036	deploy in_ preparation for_ invasion of_
-036	submit
-036	want oversee
-036	part of_ coalition occupy
-036	be to_ people of_
-036	patrol over_
-036	rescue from_
-036	enforce zone over_
-036	go with_
-036	propose deadline for_
-036	say disarm
-190	battle with_
-036	guard by_
-036	propose for_
-036	signal with_
-036	dispute claim
-036	propose give
-036	say play role in_
-036	fear lead to_ clash between_
+kill in_ [042]
+send to_ [042]
+be in_ [042]
+have troops in_ [042]
+die in_ [042]
+withdraw from_ [0874]
+leave [042]
+remain in_ [042]
+pull out_of_ [042]
+hold in_ [042]
+have in_ [042]
+deploy in_ [042]
+train [042]
+have soldier in_ [042]
+invade [042]
+say send to_ [042]
+be since_ invasion of_ [042]
+wound in_ [042]
+take in_ [042]
+condemn in_ [042]
+urge in_ [042]
+use in_ [042]
+call in_ [042]
+extend in_ [042]
+kill in_ attack in_ [042]
+say in_ [042]
+discuss [046]
+say be in_ [042]
+say [042]
+serve in_ [042]
+crash in_ [042]
+say withdraw from_ [042]
+stay in_ [042]
+arrive in_ [042]
+oppose in_ [042]
+dispatch to_ [042]
+station in_ [042]
+detain in_ [042]
+maintain troops in_ [042]
+maintain in_ [042]
+hand to_ [042]
+play in_ [042]
+have troops station in_ [042]
+provide to_ [042]
+kidnap in_ [042]
+warn in_ [042]
+lead in_ [042]
+oppose invasion of_ [042]
+arrest in_ [042]
+broker in_ [042]
+join [051]
+call for_ [020]
+member of_ [051]
+urge [020]
+push for_ [051]
+tell [051]
+welcome [051]
+seek [051]
+support [051]
+veto [129]
+impose after_ invasion of_ [051]
+want [051]
+call on_ [020]
+submit to_ [051]
+hold [051]
+country sign with_ [051]
+block [051]
+hold presidency of_ [051]
+ask [051]
+take [051]
+propose [020]
+back [032]
+present to_ [051]
+circulate [051]
+oppose [051]
+impose invade [051]
+press for_ [051]
+hail [051]
+press [051]
+lead [051]
+introduce [051]
+say [051]
+sign with_ [057]
+lose [051]
+attend [042]
+apply for_ [051]
+urge cooperate with_ [051]
+hold presidency [051]
+call [051]
+say at_ [051]
+contribute to_ [051]
+start with_ [051]
+discuss [046]
+push [051]
+contributor to_ [051]
+hope join [030]
+say support [051]
+call for_ meeting of_ [051]
+enter [051]
+say seek [051]
+kill [190]
+invade [190]
+withdraw from_ [0874]
+kill in_ [190]
+capture from_ [190]
+enter [190]
+launch against_ [190]
+launch in_ [190]
+send into_ [190]
+launch on_ [190]
+release [084]
+bomb [190]
+seal [190]
+attack [190]
+move into_ [192]
+seize from_ [190]
+impose on_ [190]
+set zone in_ [190]
+raid [190]
+occupy [190]
+shoot [193]
+pull out_of_ [190]
+strike [190]
+destroy [190]
+capture [190]
+bomb in_ [190]
+fire at_ [190]
+free [190]
+launch into_ [190]
+fire in_ [190]
+seize [173]
+attack in_ [190]
+cross into_ [190]
+hit [190]
+strike in_ [190]
+wound in_ [190]
+carry in_ [190]
+close [190]
+pound [190]
+hold [190]
+occupy in_ [190]
+annex [190]
+hit in_ [190]
+fly over_ [190]
+kill palestinians in_ [190]
+arrest [173]
+leave [190]
+fire on_ [190]
+pull from_ [190]
+roll into_ [192]
+meet with_ [040]
+visit [042]
+arrive in_ [042]
+meet [042]
+hold with_ [042]
+send to_ [042]
+leave for_ [036]
+tell [042]
+make to_ [042]
+praise [051]
+pay to_ [042]
+leave [042]
+partner [042]
+urge [020]
+return to_ [042]
+be in_ [042]
+travel to_ [042]
+congratulate [051]
+arrive to_ [042]
+meet in_ [040]
+fly to_ [036]
+discuss with_ [046]
+say with_ [042]
+arrive with_ [042]
+leave to_ [042]
+begin to_ [042]
+meet visit [042]
+say in_ [042]
+arrive for_ talk with_ [042]
+head to_ [042]
+press [042]
+hold in_ [042]
+say [042]
+begin with_ [042]
+go to_ [042]
+offer to_ [042]
+be meet with_ [042]
+assure [030]
+call on_ [020]
+ask [042]
+work with_ [042]
+say to_ [042]
+due in_ [042]
+thank [051]
+welcome [051]
+extend to_ [042]
+arrive for_ visit to_ [042]
+say visit [042]
+provide to_ [042]
+come to_ [042]
+condemn [111!]
+kill by_ [111]
+fight from_ [111]
+fire at_ [190]
+recognize [111]
+condemn in_ [111]
+kill in_ [111]
+call on_ [020]
+fire into_ [111]
+kill [190]
+fight win from_ [111]
+condemn on_ [111]
+fight gain from_ [111]
+say [111]
+condemn attack in_ [111]
+denounce [111]
+condemn by_ [111]
+fire on_ [111]
+fight gain from_ [111]
+condemn bombing in_ [111]
+open on_ [111]
+slam [111]
+clash with_ [175]
+attack [190]
+condemn attack on_ [111]
+accuse [112]
+say kill in_ [111]
+report [111]
+call for_ [020]
+refuse recognize [111]
+hit [111]
+say fire at_ [111]
+say recognize [051]
+end [111]
+throw at_ [111]
+shoot dead by_ [111]
+urge [020]
+wound by_ [111]
+kill with_ [111]
+criticise by_ [111]
+condemn assassination of_ [018]
+run end [111]
+recognize sovereignty [111]
+say fire on_ [111]
+administer halt [111]
+run halt [111]
+call for_ destruction [111]
+kill during_ [111]
+recognize independence [111]
+run bomb stop on_ [111]
+sign with_ [057]
+join [051]
+ally of_ [051]
+back [032]
+part of_ [051]
+ally [051]
+support [051]
+have with_ [051]
+provide [051]
+province of_ [051]
+leg of_ tour take to_ [051]
+welcome [051]
+host [043]
+sell to_ [051]
+side with_ [051]
+provide to_ [051]
+take from_ [051]
+supplier to_ [051]
+maintain with_ [051]
+allow [051]
+declare from_ [051]
+buy [051]
+have relation with_ [051]
+reach with_ [051]
+help [051]
+receive from_ [051]
+buy from_ [051]
+rely on_ [051]
+have [051]
+send to_ [051]
+member along_with_ [051]
+win from_ [051]
+gain from_ [051]
+supplier [051]
+work with_ [051]
+offer to_ [051]
+give to_ [051]
+offer [051]
+give [051]
+have treaty with_ [051]
+have tie with_ [051]
+lose to_ [051]
+extradite to_ [051]
+_ [051]
+build in_ [051]
+one along_with_ [051]
+export to_ [051]
+cancel to_ [051]
+receive [046]
+say support [051]
+call on_ [020]
+urge [020]
+impose on_ [051]
+warn [130]
+call [051]
+discuss [046]
+give [051]
+give [051]
+say [051]
+call for_ [020]
+meet on_ [051]
+impose against_ [051]
+negotiate with_ [050]
+hold on_ [051]
+call to_ [051]
+suspend to_ [051]
+cut to_ [051]
+welcome [051]
+offer [051]
+appeal to_ [020]
+call in_ [051]
+give to_ [051]
+oppose against_ [051]
+invite [051]
+express in_ [051]
+slap on_ [051]
+impose sanction on_ [051]
+urge to_ [051]
+approve [051]
+call from_ [051]
+provide to_ [051]
+hold with_ [051]
+press [051]
+send to_ [051]
+put on_ [051]
+condemn [111!]
+say on_ [051]
+oppose on_ [051]
+open with_ [051]
+ban [172]
+apply to_ [051]
+deliver to_ [051]
+urge in_ [051]
+lift on_ [051]
+welcome on_ [051]
+express on_ [051]
+ban from_ [051]
+welcome by_ [051]
+set for_ [051]
+meet discuss [046]
+reject [120]
+criticize [020]
+urge [020]
+tell [020]
+call on_ [020]
+warn [130]
+be under_ [020]
+ask [020]
+oppose [020]
+say [020]
+condemn [111!]
+slam [020]
+send to_ [020]
+accept [020]
+deny [020]
+welcome [051]
+demand [020]
+denounce [111]
+accuse [112]
+dismiss [110]
+call for_ [020]
+inform [020]
+lash at_ [020]
+call [020]
+cooperate with_ [020]
+reject by_ [020]
+criticise [020]
+agree with_ [020]
+want [020]
+summon [040]
+meet with_ [040]
+appeal to_ [020]
+agree to_ [020]
+protest to_ [141]
+complain to_ [114]
+express over_ [020]
+resist [020]
+blast [020]
+hand to_ [020]
+implicate [112]
+express to_ [020]
+suspend with_ [020]
+hold with_ [020]
+allow [020]
+lodge with_ [020]
+defy [128]
+comply with_ [020]
+write to_ [020]
+give [020]
+hit at_ [020]
+accuse [112]
+blame [112]
+warn [130]
+expel [174]
+deny [111]
+say [111]
+regard [111]
+consider [111]
+attack [190]
+break with_ [130]
+claim [111]
+sever with_ [111]
+call [111]
+denounce [111]
+slam [111]
+condemn [111!]
+detain [173]
+lash at_ [111]
+reject [120]
+threaten attack [111]
+blame on_ [111]
+criticize [111]
+flee to_ [080]
+release [084]
+dismiss [110]
+recall to_ [111]
+charge [111]
+cut with_ [111]
+threaten [111]
+brand [111]
+stand for_ [111]
+suspect [111]
+rule with_ [111]
+view [111]
+see [111]
+say [111]
+say come from_ [111]
+reject with_ [111]
+demand with_ [111]
+describe [010]
+have relation with_ [111]
+invite [111]
+have with_ [111]
+offer to_ [111]
+call with_ [111]
+threaten invade [111]
+order [111]
+suspend with_ [111]
+arrest [173]
+intercept [111]
+vow disarm [0356]
+split enter after_ coup [036]
+threaten use disarm [036]
+withdraw on_ [036]
+threaten disarm [036]
+ask expel [036]
+launch under_ pretext disarm [036]
+launch in_ bid topple [036]
+parachute into_ [036]
+remain take after_ coup by_ [036]
+say haven area [036]
+propose deliver to_ [036]
+drop leaflet over_ [036]
+mass around_ [036]
+set zone over_ [036]
+withdraw seek disarm [036]
+launch topple [036]
+withdraw resolution on_ [036]
+say kill [190]
+go to_ war against_ [036]
+go to_ war with_ [036]
+step preparation for_ war on_ [036]
+say play rebuild [036]
+say run for_ [036]
+sponsor declare [036]
+threaten war against_ [036]
+submit resolution on_ [036]
+remain take by_ [036]
+launch war on_ [036]
+use enforce zone over_ [036]
+step attack on_ militant in_ [036]
+deploy in_ preparation for_ invasion of_ [036]
+submit [036]
+want oversee [036]
+part of_ coalition occupy [036]
+be to_ people of_ [036]
+patrol over_ [036]
+rescue from_ [036]
+enforce zone over_ [036]
+go with_ [036]
+propose deadline for_ [036]
+say disarm [036]
+battle with_ [190]
+guard by_ [036]
+propose for_ [036]
+signal with_ [036]
+dispute claim [036]
+propose give [036]
+say play role in_ [036]
+fear lead to_ clash between_ [036]
