@@ -25,10 +25,14 @@ def path_for_tabari(path_arr):
 
 if __name__=='__main__':
     for line in sys.stdin:
-        path = json.loads(line)
+        parts = line.rstrip('\n').split('\t')
+        # print parts
+        cameocode, pathstr = parts
+        path = json.loads(pathstr)
         path2 = path_for_tabari(path)
         if not path2:
             continue
             # path2 = "NULLSKIP"
-        print "%s\t <-- \t%s" % (path2, line.strip())
+        # print "%s\t <-- \t%s" % (path2, line.strip())
+        print '\t'.join([cameocode, path2])
 
