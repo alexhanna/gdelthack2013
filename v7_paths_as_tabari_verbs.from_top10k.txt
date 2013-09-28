@@ -1,0 +1,9519 @@
+accuse
+visit
+arrive in_
+meet with_
+send to_
+meet
+urge
+tell
+call on_
+warn
+join
+say
+reject
+kill in_
+hold with_
+condemn
+criticize
+leave for_
+sign with_
+call
+be in_
+ask
+call for_
+welcome
+leave
+kill
+make to_
+blame
+withdraw from_
+impose on_
+have troops in_
+invade
+support
+give
+pay to_
+back
+be under_
+discuss
+deny
+say in_
+enter
+provide to_
+leg of_ tour take to_
+oppose
+expel
+arrive to_
+praise
+offer to_
+meet in_
+partner
+member of_
+slam
+condemn in_
+travel to_
+recognize
+hold in_
+return to_
+say with_
+die in_
+have with_
+give to_
+want
+invite
+seek
+appeal to_
+attack
+part of_
+denounce
+receive from_
+leave to_
+take
+provide
+fire at_
+fly to_
+ally of_
+discuss with_
+say to_
+release
+have
+hold
+capture from_
+quote
+express to_
+launch in_
+say send to_
+begin to_
+call in_
+congratulate
+press
+hand to_
+pull out_of_
+say kill
+hail
+launch against_
+meet visit
+allow
+demand
+call to_
+accept
+lash at_
+launch on_
+kill by_
+help
+send into_
+dismiss
+work with_
+welcome by_
+reject by_
+go to_
+have relation with_
+deliver to_
+fight from_
+condemn on_
+inform
+present to_
+consider
+take in_
+see
+offer
+arrive for_ visit to_
+start to_
+negotiate with_
+express in_
+assure
+suspend to_
+push for_
+donate to_
+cooperate with_
+hold on_
+meet on_
+summon
+ban
+receive
+regard
+submit to_
+tell in_
+remain in_
+leg take to_
+wound in_
+open in_
+head to_
+establish with_
+bomb
+host
+approve
+agree to_
+thank
+sell to_
+criticise
+seek from_
+order
+ban from_
+extend to_
+break with_
+take from_
+have in_
+sign in_
+maintain with_
+have tie with_
+urge in_
+ally
+condemn attack in_
+say on_
+issue to_
+describe
+agree with_
+block
+call with_
+make with_
+arrest
+begin with_
+shoot
+make in_
+open with_
+end to_
+seize
+seize from_
+move into_
+detain
+seal
+arrive with_
+say be in_
+arrest in_
+send
+arrive for_ talk with_
+sever with_
+use
+free
+occupy
+pledge to_
+suspend with_
+deploy in_
+cross into_
+recall to_
+reach with_
+come to_
+include
+be to_
+put
+condemn by_
+take to_
+win from_
+arrive from_
+warn in_
+blast
+serve in_
+arrive on_ visit to_
+return from_
+live in_
+be with_
+write to_
+cancel to_
+hit
+_
+strike
+close with_
+say visit
+buy from_
+say support
+capture
+seek with_
+demand from_
+cut to_
+express with_
+dispatch to_
+have soldier in_
+member along_with_
+say meet with_
+come from_
+protest to_
+express over_
+clash with_
+claim
+raid
+attack in_
+report
+destroy
+say tell
+confirm
+call from_
+threaten
+set zone in_
+meet from_
+sign to_
+rule
+win
+welcome decision
+impose against_
+shoot in_
+build in_
+announce to_
+train
+conclude to_
+veto
+begin in_
+turn to_
+pay visit to_
+charge
+leave for_ visit to_
+hold visit
+express for_
+carry in_
+impose after_ invasion of_
+fire into_
+complain to_
+attend
+set in_
+close
+fire on_
+buy
+be meet with_
+hold talk with_
+defend
+bomb in_
+hold presidency of_
+fire in_
+open to_
+be from_
+export to_
+urge to_
+gain from_
+say at_
+respond to_
+announce in_
+lead
+detain in_
+use in_
+start with_
+say discuss with_
+lodge with_
+extend
+propose
+name
+push
+present
+refer to_
+launch into_
+pull from_
+contribute to_
+annex
+say receive from_
+meet discuss
+kidnap in_
+say from_
+say ask
+replace
+put on_
+end
+tell with_
+say kill in_
+flee to_
+say withdraw from_
+due in_
+approve to_
+stay in_
+propose with_
+declare
+operate in_
+start
+join with_
+announce with_
+country sign with_
+arrive at_ invitation of_
+turn
+say work with_
+investor in_
+follow
+blame on_
+be visit
+target
+say meet
+oppose in_
+resume with_
+brief
+tell at_
+participate in_
+get from_
+tell visit
+hit at_
+propose to_
+evacuate from_
+deploy to_
+resume to_
+transfer to_
+side with_
+reject from_
+begin
+close in_
+get
+assist
+say expect
+rely on_
+fly over_
+cut with_
+appoint to_
+sign
+meet to_
+speak with_
+lead to_
+deny by_
+reiterate to_
+say leave
+refuse
+lift on_
+land in_
+import from_
+discuss in_
+accord to
+face from_
+warn against_
+say by_
+ask for_
+find in_
+call upon_
+appoint
+accuse in_
+face
+expect
+say prepare
+open on_
+deny to_
+resist
+promise
+welcome on_
+continue in_
+react to_
+pour into_
+grant to_
+violate
+slap on_
+lead in_
+launch
+strike in_
+say give
+protest
+press for_
+supply to_
+supplier to_
+express by_
+crash in_
+say hold with_
+deport
+work in_
+injure in_
+free in_
+make
+keep
+extend in_
+donate
+say accept
+play in_
+launch with_
+attend in_
+welcome to_
+be meet
+say return to_
+anger
+agree on_
+implicate
+have to_
+need
+invest in_
+head for_
+challenge
+welcome in_
+express on_
+talk with_
+support in_
+say travel to_
+extradite to_
+be on_
+have after_
+pledge
+fight win from_
+endorse
+declare from_
+seek to_
+prevent
+apply for_
+be since_ invasion of_
+bar
+defy
+report to_
+province of_
+oppose by_
+warn to_
+recall from_
+move to_
+identify
+hit in_
+partner after_
+maintain in_
+country after_
+comply with_
+bring
+represent
+grant
+deny with_
+cite
+bring to_
+sue
+sentence
+partner of_
+hope join
+reject with_
+pay
+condemn against_
+supply
+lose
+defeat
+supporter of_
+reiterate for_
+ratify
+condemn bombing in_
+come under_
+say after_ talk with_
+supplier
+oppose against_
+kill in_ attack in_
+report in_
+reach
+pound
+exchange with_
+control
+capture in_
+arrive at_
+wrap to_
+lose to_
+apologize to_
+want with_
+rebuff
+say want
+oppose to_
+fight gain from_
+conduct with_
+announce send to_
+telephone
+open
+hold talk in_
+condemn attack on_
+agree send to_
+take control of_
+set for_
+set
+say go to_
+occupy in_
+market for_
+have troops station in_
+say fire at_
+critical of_
+say involve
+look to_
+have treaty with_
+depend on_
+caution
+shell
+say come from_
+one of_
+name to_
+fight in_
+conduct in_
+donor to_
+voice to_
+visit in_
+freeze with_
+due meet
+conclude
+postpone to_
+confirm in_
+agree in_
+take with_
+suspect
+reassure
+call by_
+view
+take at_
+station in_
+provide for_
+impose sanction on_
+release in_
+deny in_
+confer with_
+welcome from_
+threaten attack
+fly into_
+be at_ odds with_
+appeal for_
+stop
+fight with_
+oppose on_
+object to_
+decide send to_
+say provide to_
+hand
+announce
+say enter
+request
+leg of_ trip take to_
+find
+end in_
+cede to_
+express at_
+deport to_
+take against_
+send with_
+kill palestinians in_
+fight
+draw
+step pressure on_
+say make to_
+pressure
+oppose invasion of_
+voice for_
+resume in_
+meet at_
+leave in_
+circulate
+be
+urge leave
+say inform
+join in_
+speak to_
+send in_
+pay at_ invitation of_
+back by_
+apply to_
+urge cooperate with_
+cancel
+wind to_
+suspend from_
+seek in_
+provide in_
+issue for_
+expel from_
+lose in_
+fly from_
+due visit
+dismiss by_
+describe in_
+want in_
+say include
+say cooperate with_
+one along_with_
+hold presidency
+strengthen with_
+remove
+hold to_
+continue with_
+be under_ pressure from_
+be among_
+urge with_
+stage in_
+roll into_
+rebuke
+promise to_
+force
+brand
+say oppose
+keep in_
+draw from_
+approve in_
+express about_
+advise
+add
+order from_
+chide
+play
+condemn assassination of_
+stop of_ tour take to_
+renew for_
+raise with_
+maintain troops in_
+convey to_
+accept from_
+take on_
+renew to_
+declare in_
+call for_ release of_
+urge on_
+say take
+notify
+tour
+say attack
+hail with_
+face in_
+complete from_
+say commit
+say allow
+continue to_
+ally in_
+say remain in_
+regret
+order in_
+establish in_
+destroy in_
+be hold with_
+strike with_
+introduce
+increase to_
+start in_
+stand for_
+raid in_
+develop with_
+arrive start to_
+market
+insist on_
+ban to_
+seize in_
+say hold in_
+hand over to
+give for_
+cancel with_
+begin on_
+announce from_
+seek on_
+say welcome
+remind
+rap
+one of_ partner
+impose invade
+enjoy with_
+criticize in_
+say wound
+say give to_
+renew
+dependent on_
+make on_
+say recognize
+impose from_
+complain about_
+call for_ withdrawal of_
+support bid
+say sign with_
+say belong to_
+suspend
+hail by_
+freeze to_
+deploy with_
+authorize
+share with_
+one of_ ally
+fire from_
+demand to_
+deal with_
+commit in_
+advise leave
+warn of_
+ship to_
+rule with_
+purchase from_
+ignore
+drop on_
+demand with_
+be on_ visit to_
+tell to_
+say concern
+owe
+contributor to_
+wound
+with
+say discuss
+repatriate
+say reach with_
+keep on_
+denounce in_
+commit to_
+say take to_
+say consider
+kill by_ fire in_
+announce on_
+urge from_
+support on_
+say seek
+reject on_
+reject for_
+push into_
+lead with_
+issue in_
+focus on_
+demand withdrawal of_
+clash in_
+approve with_
+step on_
+say during_ visit to_
+say urge
+join along_with_
+investigate
+have agreement with_
+host from_
+follow by_
+arrive by_
+announce for_
+sign by_
+make into_
+intercept
+due arrive in_
+call withdraw from_
+base in_
+about troops in_
+want from_
+say be up to_
+put to_
+kidnap
+demand in_
+confirm to_
+seal with_
+say arrest
+kill militant in_
+intervene in_
+hope for_
+criticize by_
+condemn kill of_
+condemn decision
+award to_
+address
+urge government
+strike at_
+say want with_
+say arrive in_
+report kill
+pledge for_
+depart for_
+contribute in_
+sign agreement with_
+plan send to_
+order leave
+file against_
+conclude with_
+surrender to_
+say shoot
+say call on_
+receive in_
+reach to_
+plan visit
+owe to_
+make from_
+laud
+evacuate
+describe to_
+blame in_
+talk to_
+say join
+say hold
+say be with_
+protest by_
+increase in_
+have talk with_
+give in_
+express support for_
+continue
+call for_ meeting of_
+broker in_
+back in_
+arrive for_
+say determine
+reaffirm to_
+open at_
+hope
+hold at_
+tell from_
+stress with_
+say cross into_
+renew on_
+invest
+extend mandate of_
+contact
+announce visit
+adopt
+admit
+withdraw
+wait for_
+urge withdraw from_
+summon to_
+sell
+run
+have interest in_
+end with_
+criticize on_
+come in_
+call against_
+quit
+kill on_
+indict
+have peacekeeper in_
+hail to_
+encourage
+confirm with_
+commend
+agree allow
+say injure
+say have
+reject in_
+offer for_
+move with_
+kick
+hold talk on_
+hijack
+head
+have from_
+be join
+arrive on_
+withdraw to_
+say pull out_of_
+lodge to_
+bombard
+begin from_
+summon ambassador
+set with_
+say violate
+reject to_
+recognize independence
+one of_ member of_
+lobby
+donor
+discuss to_
+attend to_
+want to_
+threaten invade
+say in_ interview with_
+reoccupy
+reach on_
+mediate between_
+leave on_ visit to_
+hold from_
+defend with_
+send troops to_
+order to_
+meet discuss in_
+invite visit
+go in_
+friend of_
+battle
+ask from_
+welcome with_
+vote on_
+strike on_
+pull
+pound in_
+make for_
+identify as_
+have contingent in_
+halt to_
+denounce by_
+accompany to_
+reject request
+refuse allow
+pose to_
+include from_
+greet
+expel to_
+raise
+play with_
+play role in_
+launch to_
+impose to_
+convict
+condemn killing of_
+assail
+administer
+train in_
+say part of_
+restore with_
+refute
+do in_
+allow into_
+spend
+single
+say provide
+say be to_
+revert to_
+rescue
+reopen in_
+leave after_ visit to_
+insist
+have troops serve in_
+term
+show
+say of_
+say hand to_
+forge with_
+due hold with_
+denounce on_
+criticise by_
+be along_with_
+see in_
+say stay in_
+reject proposal
+offer in_
+insist be in_
+consult with_
+visit to_
+target of_
+sign for_
+say agree with_
+run in_
+reject offer
+leave with_
+support for_
+set to_
+send support
+say release
+reject demand
+follow with_
+confirm kill
+arrive
+say fly to_
+reiterate on_
+praise effort
+launch for_
+label
+deplore
+arrive discuss with_
+withdraw in_
+threaten against_
+say use
+lift against_
+end on_
+drive
+confront
+condemn to_
+support to_
+say impose on_
+say fire on_
+power in_
+clear
+approve for_
+applaud
+announce death of_
+agree
+step with_
+step in_
+say take in_
+refuse to_
+host with_
+file with_
+fight alongside_
+demolish
+close to_
+attend from_
+warn with_
+tighten on_
+say reject
+say arrest in_
+release to_
+raise to_
+mass with_
+kick to_
+enter in_
+due join
+claim in_
+build with_
+announce kill
+stand with_
+say for_
+say negotiate with_
+say meet in_
+say back
+refuse recognize
+reach in_
+go with_
+fight against_
+claim over_
+want join
+spend in_
+say have with_
+raise in_
+pass
+fly
+favor
+extradite
+expect in_
+drive into_
+cut
+concern over_
+begin withdraw from_
+ban import of_
+withdraw from_ percent of_
+voice in_
+urge for_
+storm
+renew in_
+join from_
+have presence in_
+destination for_
+clamp on_
+be by_
+arrive begin to_
+take presidency of_
+reiterate
+launch from_
+launch at_
+express against_
+due meet with_
+buyer of_
+arrive for_ talk on_
+approach
+accuse neighbor
+abducted in_
+state sign with_
+source
+say be from_
+draft
+ask in_
+welcome release of_
+support effort
+sign from_
+say resume with_
+say agree to_
+province be under_
+pledge with_
+hail in_
+deploy troops in_
+criticize decision
+await
+agree provide
+stand by_
+sink
+say warn
+part of_ tour take to_
+offer help
+meet with_ minister of_
+lift
+invite to_
+introduce to_
+hold by_
+have on_
+gather in_
+deport from_
+demand release of_
+concerned in_
+stop to_
+say speak with_
+say invite
+reiterate in_
+recipient of_
+make by_
+leg of_ visit take to_
+have tell
+express over_ death of_
+express concern over_
+be over_
+approve release of_
+announce withdraw from_
+say after_
+reaffirm for_
+pass to_
+kill with_
+hail on_
+ease on_
+criticize to_
+block by_
+wound by_
+throw behind_
+speak against_
+shrug
+say depend on_
+put with_
+producer after_
+praise in_
+plan to_
+meet leader of_
+make landing in_
+maintain on_
+kill militant
+designate
+contribute
+concerned about_
+blast in_
+be invade
+ask send to_
+treat
+suggest
+return after_ visit to_
+report from_
+refer
+offer send to_
+member include
+leave conclude to_
+join as_
+have relationship with_
+have border with_
+deny from_
+complete in_
+urge comply with_
+turn over to
+stop on_ tour take to_
+say after_ meeting with_
+say make with_
+say expel
+refuse accept
+ratify with_
+meet with_ minister
+list
+keep with_
+end occupation of_
+defend in_
+continue on_
+back bid
+value with_
+suspend in_
+say press
+refuse extradite to_
+put in_
+protest against_
+protect
+propose in_
+jail in_
+intensify on_
+impose in_
+describe with_
+agree by_
+voice with_
+sign on_
+say help
+say expect in_
+reiterate support for_
+invite from_
+expect from_
+evacuate in_
+dispute
+carry
+burn
+be in_ talk with_
+balk at_
+warn of_ attack in_
+support by_
+suffer in_
+set on_
+seek for_
+say hit
+run from_
+return
+reject call
+recommend to_
+member of_ association of_ nations along_with_
+fear
+back for_
+admit kidnap
+urge accept
+send back to_
+say leave for_
+request from_
+pursue with_
+postpone
+plead with_
+leave at_ invitation of_
+call for_ sanction against_
+beat
+slam in_
+say contact
+say call
+move in_
+investor
+invade colony of_
+flee
+expect with_
+earn
+discuss on_
+condemn murder of_
+carve zone in_
+brush
+be at_ odds over_
+attach to_ relation with_
+want on_
+subject to_
+shuttle between_
+say seek from_
+say find in_
+say deploy
+renew with_
+question
+prepare for_
+need from_
+invite leader of_
+have meeting with_
+boycott with_
+begin against_
+ask to_
+adopt on_
+win in_
+visit with_
+throw at_
+tell meet with_
+set deadline for_
+say be on_
+say be for_
+say accuse
+reopen with_
+play to_
+occupy part of_
+live in_ camp in_
+lead along_with_
+belong to_
+be meet in_
+allow to_
+warn travel to_
+stress to_
+snub
+seek help
+see to_
+say speak to_
+reaffirm support for_
+neighbor
+make at_
+indict in_
+increase on_
+give with_
+condemn attack
+call after_
+bring from_
+blockade
+announce against_
+accuse government
+sign with_ states
+sign deal with_
+say respond to_
+say protest to_
+say present to_
+say flee to_
+member of_ program
+kill in_ accident in_
+keep troops in_
+enter with_
+defend to_
+decide extend mandate of_
+condemn test
+use to_
+urge send to_
+take for_
+send back
+say need
+rule belong to_
+refuse send to_
+reduce in_
+partner for_
+meet with_ leader of_
+leg of_ tour include
+help in_
+hail decision
+govern
+circulate to_
+be on_ tour take to_
+aid
+say support in_
+say send
+say come to_
+permit
+oppose action against_
+mass on_
+lodge against_
+link
+keep pressure on_
+insist with_
+hope with_
+hold for_
+engage
+dominate
+choose
+break
+attend with_
+agree for_
+welcome agreement between_
+want by_
+stop take to_
+shut
+seek support
+see with_
+say refer to_
+say pose to_
+remove from_
+remain under_
+propose on_
+launch attack on_
+join on_
+intensify in_
+impose sanction against_
+go into_
+expand in_
+drop in_
+divide
+criticize with_
+block to_
+bar from_
+back on_
+approve by_
+allow from_
+accept to_
+try convince
+send help
+say fire from_
+say report agency
+look at_
+lift to_
+impose after_ invasion
+have link with_
+fly in_
+elect
+downplay
+describe as_
+country recognize
+consider to_
+carry to_
+call cooperate with_
+back with_
+welcome announcement
+warn on_
+stop in_
+shell in_
+say time for_
+say pay to_
+say offer to_
+say deliver to_
+reject claim
+place
+partner with_
+mull
+member of_ association
+meet over_
+kill during_
+express over_ situation in_
+describe by_
+country in_
+behead in_
+battle in_
+authorize to_
+arrive meet with_
+approve on_
+austria
+win with_
+voice by_
+use against_
+urge leader
+take part in_
+stress
+speak in_
+shoot dead by_
+say transfer to_
+say submit to_
+say see
+say appeal to_
+repatriate from_
+push with_
+pick
+oppose with_
+offer with_
+lobby for_
+link to_
+insist part of_
+have force in_
+have embassy in_
+freeze asset of_
+decide extend in_
+coordinate with_
+condemn violence in_
+come with_
+cause in_
+be for_
+be tell
+abandon
+wary of_
+say send into_
+say raise with_
+say make in_
+say focus on_
+resume on_
+push in_
+postpone with_
+one in_
+obtain from_
+leg of_ tour bring to_
+inspect
+get in_
+execute
+drop to_
+drop
+discuss for_
+carry on_
+call at_
+border with_
+agree provide to_
+use with_
+tell after_ talk with_
+say including_
+say expect from_
+place on_
+overtake
+mention
+lift ban on_
+lag behind_
+insist belong to_
+increase with_
+have basis in_
+count on_
+arrive discuss
+announce hold including_
+scold
+say seek with_
+say open on_
+report by_
+release from_
+protest in_
+oppose along_with_
+monitor
+make against_
+lead for_
+kill into_
+host on_
+fly with_
+file in_
+demand by_
+demand withdraw from_
+crash kill
+count
+condemn bombing of_
+blow in_
+be say with_
+award
+attach with_
+accuse on_
+wrap
+target in_
+submit
+stress in_
+sign in_ presence of_
+say sell to_
+say see in_
+say continue with_
+say comply with_
+say aim at_
+release by_
+press in_
+pledge help
+pledge in_
+pledge support for_
+meet with_ representative of_
+meet for_ talk on_
+join partnership
+issue against_
+investor after_
+have under_
+have say with_
+greet to_
+freeze
+exert on_
+deny on_
+declare on_
+commit
+charge in_
+call for_ talk between_
+be at_
+add to_
+warn by_
+try
+tell meet
+surround
+shoot at_
+say have in_
+say fire into_
+say die in_
+praise with_
+plan in_
+order expulsion of_
+leave attend
+kill at_
+home to_
+have dispute with_
+follow lead
+fire
+due travel to_
+discuss situation in_
+depart to_
+collide with_
+call for_ talk with_
+call for_ cooperation between_
+be arrive in_
+be against_
+approve against_
+appeal in_
+agree give
+advise travel to_
+advise to_
+wind
+want send to_
+take by_
+strike against_
+split from_
+say quote
+say talk to_
+say head to_
+say discuss in_
+praise by_
+plan meet with_
+get to_
+cut in_
+condemn killing
+comprise from_
+call into_
+be send to_
+be discuss
+authorize in_
+attract
+arrive hold with_
+arrive for_ meeting with_
+advise in_
+try get
+sponsor
+slam on_
+sign during_ visit
+serve with_
+see on_
+say wait for_
+say begin with_
+resume
+reaffirm
+plan
+offer host
+nation after_
+mount in_
+make visit to_
+issue on_
+improve with_
+establish
+call discuss
+await from_
+approve send to_
+acknowledge
+urge by_
+turn in_
+study
+say in_ interview publish in_
+say about_
+say important for_
+say detain in_
+reiterate with_
+praise role
+opponent of_
+impose closure on_
+have troops deploy in_
+have tie to_
+have soldier station in_
+do
+die
+call for_ tie with_
+call meeting of_
+begin arrive in_
+be travel to_
+be at_ invitation of_
+ambush
+agree take
+vote against_
+support against_
+storm in_
+sign at_
+serve under_
+say move to_
+say deal with_
+say bring to_
+rush to_
+retain
+recognize from_
+recognize sovereignty
+react by_
+pull in_
+pledge cooperate with_
+move from_
+lift sanction against_
+impose following_ invasion of_
+fly out_of_
+express over_ decision
+express from_
+exporter after_
+establish zone in_
+distance from_
+demand for_
+compete with_
+carry operation in_
+behead
+announce by_
+luxembourg
+welcome for_
+watch
+vote with_
+show to_
+say write to_
+say threat to_
+say fire in_
+say capture
+rank behind_
+prompt
+promote
+plan travel to_
+operate from_
+leave after_
+learn from_
+launch after_
+kill near_
+host for_
+have personnel in_
+halt in_
+fire over_
+draw with_
+do with_
+bring against_
+back to_
+accuse from_
+worry about_
+voice over_
+urge republic
+see from_
+say welcome by_
+say have to_
+resume over_
+remain on_
+reject accusation
+reaffirm with_
+lose with_
+introduce in_
+interested in_
+hold discuss
+hold meeting with_
+have accord with_
+fire to_
+enter into_
+declare with_
+continue support
+complete
+carry from_
+carry against_
+backer of_
+announce suspend to_
+accuse agency
+warn from_
+veto in_
+threaten veto
+stage into_
+sign including_
+seek reassure
+second to_
+say in_ letter to_
+say extradite to_
+say consider send to_
+say be by_
+say aim
+run end on_
+respond by_
+require
+report on_
+prohibit
+present in_
+phone
+oppose for_
+meet with_ delegation of_
+maintain to_
+kill palestinian in_
+have soldier serve in_
+describe on_
+depart
+deny accusation
+decide suspend with_
+contribute to_ force in_
+complain of_
+call for_ cooperation with_
+bow to_
+boost in_
+blacklist
+ban with_
+attend on_
+arrive for_ visit at_ invitation of_
+announce expel
+accept by_
+work on_
+work for_
+welcome between_
+urge government of_
+threaten to_
+take after_
+stage on_
+slam by_
+sign along_with_
+sever storm
+send peacekeep to_
+send join
+say take from_
+say summon
+say strike
+say move into_
+say keep in_
+review
+return in_
+renew against_
+recall
+oppose war in_
+oppose war against_
+operate to_
+nominate
+member together_with_
+leg of_ tour
+launch by_
+infuriate
+impose blockade on_
+flee into_
+fire at_ target in_
+do to_
+deplore in_
+deny involvement in_
+critic of_
+consider send to_
+conclude in_
+cite in_
+build on_
+brief in_
+boost
+back against_
+allow return to_
+aid to_
+affect
+accuse to_
+vow disarm
+trade with_
+talk about_
+split
+shoot by_
+say veto
+say support by_
+say receive
+say plan visit
+say detain
+rule in_
+respond expel
+represent in_
+report send to_
+reiterate support
+reduce to_
+prepare with_
+prepare to_
+normalize with_
+meet with_ member of_
+mediate talk between_
+leave pay to_
+lead against_
+kill by_ troops in_
+kill two in_
+import
+help train
+have along_with_
+halt with_
+express at_ decision
+dominate occupy with_
+cross
+condemn into_
+comprise
+compare
+carry into_
+call for_ dialogue between_
+broker agreement between_
+brief with_
+be meet discuss
+arrive visit
+agree release
+active in_
+acquit
+win on_
+want give
+tell meeting of_
+stress for_
+step against_
+start on_
+sit with_
+say target
+say suspend to_
+say recognize independence
+say oppose to_
+say land in_
+say hide in_
+run end
+rocket
+recommend
+recognize independence of_
+organize in_
+member of_ asean
+leave on_
+issue with_
+involve in_
+hold with_ leader of_
+have conversation with_
+claim with_
+claim from_
+circulate in_
+boycott
+boost with_
+be withdraw from_
+be under_ set of_
+be on_ list
+back from_
+appreciate
+agree sell to_
+vote extend in_
+vote for_
+try persuade
+take command of_
+surpass
+stop of_ trip take to_
+speak of_
+sign between_
+send from_
+send for_
+say support on_
+say deploy in_
+say continue in_
+resist from_
+report with_
+remain do
+recommend in_
+recognize claim
+receive to_
+propose for_
+press accept
+open for_
+miss in_
+member of_ quartet along_with_
+leave continue
+launch operation in_
+have like_
+guard
+give from_
+fire at_ car in_
+evacuate to_
+embark to_
+discuss by_
+confine to_
+condemn attack against_
+clash over_
+believe
+be withdraw from_ percent of_
+be pull out_of_
+assume presidency of_
+arrive as_ part take to_
+woo
+win stage of_ tour of_
+walk out_of_
+wage against_
+vow to_
+urge resume with_
+urge release
+threaten take against_
+threaten send into_
+threat to_
+sign with_ zealand
+seek asylum in_
+say train in_
+say support bid
+say launch in_
+say buy
+say report press of_
+rule send to_
+retaliate against_
+rank after_
+push against_
+pursue in_
+promise with_
+praise to_
+persuade
+pay for_
+let
+leg include
+leave wind to_
+involve
+host in_
+halt by_
+give on_
+create in_
+condemn with_
+condemn action
+complain by_
+close embassy in_
+claim on_
+call send to_
+call to_ violence in_
+attack on_
+arrive meet
+arrive continue to_
+arrive in_ capital
+approve deployment of_
+allow in_
+win over_
+welcome offer
+unveil
+stress importance of_
+send represent
+say share with_
+say hold talk with_
+say destroy
+respect
+repeat for_
+participate with_
+offer mediate between_
+move
+maintain
+lend to_
+leg of_
+injure
+impose over_
+have pact with_
+halt
+extend mission in_
+enforce zone over_
+deny be in_
+convert nigeria
+continue against_
+consult
+confirm on_
+confirm kill in_
+comment on_
+circulate at_
+build for_
+begin consist of_
+attach to_
+announce provide
+agree open with_
+agree accept
+administer halt
+withdraw on_
+urge support
+throw
+tell television
+study in_
+speak from_
+slap
+show with_
+show in_
+serve
+send support government
+secure
+say study
+say ready send to_
+say engage
+say convey to_
+route for_
+renew mandate of_
+recognize right
+rebuff by_
+purchase
+mourn death of_
+member
+meet with_ president of_
+market after_
+mark anniversary of_
+maintain presence in_
+look for_
+lift from_
+insist try in_
+impose embargo on_
+importer of_
+enhance with_
+endorse by_
+discuss visit
+denounce to_
+declare of_
+customer for_
+consider in_
+come on_
+come by_
+build
+block in_
+be discuss with_
+arrive in_ city
+approve from_
+allow leave
+allocate
+agree return to_
+admit to_
+wish
+use during_
+turn on_
+threaten expel
+support with_
+supplier of_ oil to_
+summon ambassador of_
+slam into_
+shut in_
+seek impose sanction on_
+say wound in_
+say value with_
+say satisfy
+sandwich between_
+run halt
+recognize republic of_
+prepare in_
+power-broker in_
+oppose without_
+open office in_
+negotiate
+move on_
+lose soldier in_
+leave meet
+lead giant include
+lambast
+kill in_ action in_
+insist recognize
+honor
+head with_
+head in_
+guarantor of_ independence
+go miss in_
+give by_
+draw in_
+donate in_
+deny send to_
+deny charge
+defend on_
+defend against_
+country make with_
+consider from_
+condemn blast in_
+come under_ fire in_
+candidate for_
+call leave
+call for_ destruction
+call for_ ceasefire in_
+call between_
+bar enter
+alert
+acquire
+accompany
+willing work with_
+want keep
+want tell
+vote extend
+trade over_
+threaten kill
+take than_
+step to_
+send through_
+send along_with_
+seize control of_
+say despite_
+say suspend with_
+say receive in_
+say prevent
+say hit in_
+say free
+say destroy in_
+say consult with_
+say complain to_
+reopen
+recognize as_
+reaffirm on_
+push to_
+push on_
+provide through_
+member of_ council
+lash
+kill by_ army in_
+intensify against_
+instruct
+have contact with_
+express
+expand with_
+exchange in_
+end against_
+deploy
+deny allegation
+deliver
+come after_
+blame agency
+ask leave
+allege
+accuse into_
+_ member of_
+welcome appointment of_
+welcome acceptance
+threaten cut to_
+stop from_
+split enter after_ coup
+seek join
+seek impose through_
+say stand by_
+say set
+say push for_
+say live in_
+say express to_
+say continue support
+refuse with_
+promote with_
+plan withdraw from_
+pay in_
+oppose expansion
+oppose bid
+one include
+negotiate to_
+maintain basis in_
+leave for_ talk with_
+lease from_
+hold over_
+face with_
+export
+enter after_ coup
+due meet in_
+due join eu
+drop against_
+delay to_
+congratulate as_
+close at_
+claim sovereignty over_
+cancel by_
+call comply with_
+call on_ government of_
+block for_
+be like_
+be in_ contact with_
+be after_
+ban by_
+attend do arabia
+attend arabia
+arrive kick to_
+apply join
+announce hold in_
+agree hold with_
+write
+take presidency from_
+take presidency
+switch to_
+start from_
+start against_
+scoff at_
+say along_with_
+say use in_
+say talk with_
+say take with_
+say support effort
+say resolve
+say remove
+say order
+say capture in_
+run force
+run bomb stop on_
+return conclude to_
+resign over_
+recommend extend mandate of_
+recommend grant
+quote in_
+prod
+not send to_
+meet with_ leader
+line with_
+join to_
+jail
+isolate
+introduce on_
+independent from_
+increase
+hold meeting in_
+have problem with_
+have say in_
+explain to_
+enforce zone in_
+downgrade with_
+demolish in_
+declare to_
+cross from_
+control from_
+confirm send to_
+call for_ boycott of_
+appear in_
+apologise to_
+announce pay to_
+abandon in_
+withdraw troops from_
+welcome proposal
+welcome reach between_
+use on_
+unpopular in_
+tell leave
+suspend against_
+suspect in_
+suggest to_
+station troops in_
+slap sanction on_
+send fight alongside_
+search for_
+say welcome from_
+say turn to_
+say resume to_
+say ready work with_
+say look to_
+say kidnap
+say haven area
+say expect with_
+sanction
+return wind to_
+respond in_
+report cite
+reiterate against_
+quote tell
+promise provide
+prepare send to_
+plan with_
+offer train
+offer on_
+name in_
+meet discuss to_
+make after_
+invade timor
+insist join
+include in_
+hold on_ situation in_
+have including_
+have say
+hail for_
+friend
+follow in_
+face by_
+expand
+establish from_
+embrace
+elect to_
+discuss from_
+disagree with_
+detain from_
+deny enter
+demand on_
+declare at_ summit in_
+decide withdraw from_
+cover
+court
+continue for_
+contender for_
+condemn assassination
+bristle at_
+blame on_ agency
+begin pull out_of_
+be brief
+back invasion of_
+arrive pay to_
+announce at_
+announce close with_
+allocate to_
+agree withdraw from_
+agree recognize
+agree say minister
+welcome pledge
+voice at_
+turn by_
+trail
+threaten withdraw from_
+threaten use disarm
+supporter in_
+sentence in_
+send after_
+say put
+say be in_ talk with_
+say back by_
+say ask for_
+report quote
+put by_
+provide with_
+promise help
+pledge send to_
+pass through_
+oust
+order evacuation of_
+occupy third of_
+negotiate along_with_
+make meet with_
+leave by_
+launch offensive in_
+kill as_
+kill rebel in_
+join leader of_
+impose
+hold through_
+handle
+hail from_
+free from_
+form with_
+extend on_
+estimate be from_ philippines
+dismiss to_
+dismantle in_
+detain by_
+defect to_
+decide on_
+cut aid to_
+credit
+create
+confirm from_
+condemn at_
+complete to_
+commit against_
+brief on_
+be hold in_
+attribute to_
+assume
+appoint in_
+appoint for_
+agree start with_
+withdraw from_ most of_
+withdraw from_ 2000 south
+welcome move
+vote from_
+voice on_
+voice against_
+urge join
+unveil to_
+threaten in_
+tell agency
+succeed
+sign memorandum understand with_
+shut with_
+shun
+shift to_
+send protect
+send as_ part of_
+say cite
+say threaten
+say support against_
+say seize
+say ready hold with_
+say member of_
+say cancel to_
+say be in_ contact with_
+say attach to_ relation with_
+repeat to_
+refuse negotiate with_
+put pressure on_
+publish in_
+provide including_ those from_
+president of_
+praise decision
+popular in_
+organize with_
+order with_
+one of_ investor in_
+one of_ country including_
+obtain
+name of_
+move against_
+lead from_
+kill in_ blast in_
+kill four in_
+kick in_
+intensify with_
+implement
+hurt in_
+have deal with_
+form comprise west including_
+fight over_
+face to_
+ease
+due to_
+dismiss as_
+decide provide
+decide invite
+country of_
+contributor after_
+command force in_
+blow
+begin tour of_
+be behind_
+be among_ member of_
+announce meet with_
+adopt against_
+welcome statement
+weigh
+want see
+visit on_
+visit at_ invitation of_
+urge pressure
+undertake in_
+travel with_
+tighten against_
+support right
+support government
+stage against_
+spend on_
+speak for_
+send join in_
+seek by_
+say unite
+say sell in_
+say seek to_
+say regard
+say plan send to_
+say oppose in_
+say offer
+say involve in_
+say establish with_
+say donate to_
+say deploy to_
+say call for_
+satisfy
+report wound
+replace in_
+refuse from_
+ready work with_
+push refer to_
+part along_with_
+overfly
+one of_ member along_with_
+occupy zone in_
+observe
+monitor in_
+miss
+maintain relation with_
+lodge by_
+kill in_ province
+kill from_
+invite minister of_
+insist to_
+in
+host to_
+hit by_
+hear
+freeze in_
+fire near_
+fail comply with_
+express about_ situation in_
+evict
+engage in_
+echo
+deny sell to_
+decide start with_
+country join
+continue work with_
+concern by_
+capture by_
+break relation with_
+block start of_
+be including_
+be say minister
+be say in_
+be say
+avoid
+appear on_
+acquire from_
+accuse with_
+want bring
+vote extend mandate of_
+urge against_
+urge neighbor
+threaten refer to_
+tell on_
+suspicious of_
+suffer from_
+spark in_
+slam against_
+set protect by_
+seek support for_
+say turn
+say regret
+say reach
+say need in_
+say harm
+say halt to_
+say dispatch to_
+say concern about_
+say assure
+rule talk with_
+resist by_
+report injure
+rank
+punish
+place in_
+oppose plan
+neighbor of_
+negotiate in_
+meet discuss with_
+meet discuss situation in_
+mass since_ attack on_
+maintain against_
+lift in_
+lead on_
+kill by_ bomb in_
+investigate in_
+invade by_ supporter of_ union with_
+insist comply with_
+include officer from_ belgium
+impose after_
+hope along_with_
+hold including_
+hold against_
+hijack to_
+have over_
+force in_
+forbid
+fire toward_
+file to_
+fail agree on_
+expect to_
+deny involve
+declare republic of_
+consult on_
+consider with_
+concern at_
+command in_
+change
+call for_ lifting of_
+call for_ implementation of_
+build plant
+bring in_
+break agree on_ settlement in_
+break storm
+benefit from_
+begin evacuate from_
+be under_ command of_
+be at_ war with_
+back along_with_
+arrest from_
+arm
+announce including_
+announce arrest of_
+announce travel to_
+ally with_
+airlift to_
+agree from_
+admit kidnap train in_
+administer end
+warn pull out_of_
+vow help
+visit for_ talk with_
+urge lift on_
+urge give
+travel in_
+travel for_ talk with_
+transport to_
+threaten use against_
+threaten launch on_
+threaten into_
+tell after_ meeting with_
+suspend import of_
+support along_with_
+stick to_
+sign agreement visit
+sign charter with_
+side with_ states
+set from_
+say against_
+say win from_
+say want in_
+say start with_
+say ready resume with_
+say open at_
+say need from_
+say coordinate with_
+say contribute to_
+say brief
+say block
+say be against_
+report fire at_
+reopen to_
+refuse by_
+reach agreement with_
+pull from_ percent of_
+powerbroker in_
+play from_
+oppose into_
+oppose use of_ force against_
+open into_
+meet minister
+make say
+link in_
+launch strike on_
+kill insurgent in_
+ink with_
+have soldier deploy in_
+have ambassador in_
+follow to_
+face over_
+express between_
+exchange on_
+examine
+dismiss from_
+deploy along_
+deploy after_
+deny into_
+deny cross into_
+criticise in_
+country for_
+control two-thirds of_
+claim shoot
+cite from_
+circulate pursue disarmament of_
+cede
+catch in_
+carve in_
+carry raid in_
+border to_
+be inside_
+ask expel
+annex colony of_
+aim at_
+agree supply
+agree join
+agree hold in_
+welcome talk between_
+vote send to_
+urge stop
+urge leader of_
+unleash on_
+threaten use
+take action against_
+suspect to_
+supportive of_
+suggest with_
+stand on_
+spy on_
+source to_
+show for_
+shake with_
+say on_ visit to_
+say satisfy with_
+say provide for_
+say propose to_
+say launch on_
+say carry in_
+say allow into_
+rumble into_
+restore to_
+remain at_ odds with_
+reject charge
+raise possibility of_
+protest over_
+press on_
+plan buy from_
+partner in_
+overcome with_
+open from_
+offer from_
+name for_
+mount on_
+member with_
+meet with_ president
+meet on_ sideline of_
+meet leader
+leave beijing for_
+leave baghdad ahead_of_
+lay to_
+lay along_with_
+launch seize
+kill by_ gunfire in_
+join talk to_
+join on_ may along_with_
+intrude into_
+hurt
+hope to_
+have word for_
+have office in_
+have investment in_
+free by_
+escort
+enter after_ coup seek with_
+due leave
+dismiss in_
+denounce against_
+delay
+decry
+decide accept
+crack on_
+convince
+consider against_
+confer on_
+condemn coup in_
+complete with_
+claim belong to_
+break in_
+bolster from_ italy
+belong council include
+believe shelter along_ border between_
+begin send to_
+be since_
+attach develop with_
+arrive as_ guest of_
+approve extension of_
+allow visit
+agree cooperate with_
+adopt resolution on_
+act head to_ country such_as_
+rica
+wrap with_
+welcome effort
+want for_
+veto with_
+urge work with_
+trigger
+threaten launch against_
+threaten disarm
+threaten with_
+threaten action against_
+suspend after_
+surround in_
+surprise
+stop after_
+slam to_
+signal with_
+sign with_ country including_
+seek against_
+say between_
+say speak in_
+say take against_
+say return from_
+say put on_
+say meet from_
+say maintain with_
+say hope
+say concern in_
+say bomb in_
+say aware of_
+say aim visit to_
+say affect
+route
+review with_
+return body of_
+report death of_
+report kill in_
+repeat on_
+refuse meet
+ratchet pressure on_
+province in_
+provide aid to_
+probe
+pledge withdraw from_
+patrol
+name as_
+make about_
+maintain about_ troops in_
+lead by_
+join while_
+join against_
+invite in_
+initiate with_
+initial with_
+highlight
+have tell in_
+go from_
+expand to_
+equip
+deplore by_
+deny claim
+decide in_
+debate
+criticise on_
+contribute to_ invasion of_
+continue occupy
+confirm by_
+come under_ fire from_
+celebrate to_
+call for_ pressure on_
+call for_ election in_
+block at_
+be train
+be receive from_
+be make to_
+be over_ island of_
+be of_
+be in_ breach of_
+attend meeting in_
+assume in_
+allow enter
+agree at_
+agree say
+accuse at_
+accept in_
+write in_
+wrap in_
+welcome decision of_
+vow keep
+urge implement
+understand
+travel meet with_
+tour in_
+threaten block
+tell voice of_
+take line against_
+take want britain
+support invasion of_
+submit in_
+stun
+start withdraw from_
+sponsor in_
+spark
+signal to_
+sign during_ visit to_
+sign agreement in_
+shoot say medical
+serve as_
+search
+say into_
+say in_ report to_
+say willing work with_
+say ready cooperate with_
+say play role in_
+say have program including_
+say find
+say continue work with_
+say consider in_
+say carry from_
+say attend
+say attack in_
+restrict
+report result to_
+rely from_
+relocate to_
+refuse hold with_
+reduce
+recognize republic
+reach for_
+pursue
+press to_
+prepare focus failing including_
+pledge support
+plan evacuate enclave in_
+plan on_
+perform in_
+order against_
+oppose sanction against_
+move fight
+member of_ saarc include
+meet discuss for_
+mark
+look after_
+launch stop on_
+issue
+insist in_
+impose by_
+impose blockade of_
+hope invite join
+hear from_
+have base in_
+go on_
+gather outside_
+draw to_
+decline comment on_
+country to_
+country switch take following_
+contribute to_ operation in_
+continue push for_ dialogue instead_of_
+continue from_
+continue despite_ collapse of_
+continue despite_ collapse entice
+confirm kidnap in_
+condemn use
+chastise
+carry with_
+call join
+call end in_
+call accept
+call of_
+call for_ end to_
+call for_ action against_
+bombard in_
+begin talk with_
+be report to_
+be present to_
+be attend delegate from_
+ban denial including_
+back effort
+assess
+appreciate adherence
+announce release
+align with_
+act as_ mediator between_
+warn of_ threat in_
+wage in_
+urge recognize
+urge help
+urge avoid in_
+travel warn for_
+transfer
+toughen on_
+top
+threaten target
+threaten take
+threaten launch on_ facility
+threaten accuse
+take as_
+take place of_
+step criticism of_
+state willingness provide to_
+stand with_ people of_
+stage over_
+speak on_
+send join from_
+seek at_
+say recall to_
+say ready meet
+say ready with_
+say pull from_
+say play in_
+say oppose against_
+say open to_
+say lead
+say issue to_
+say expect on_
+say discuss situation in_
+say defy
+say consider with_
+say accept from_
+rule against_
+return with_
+retain with_
+represent interest in_
+report warn
+repeat
+reject allegation
+reiterate by_
+promise for_
+plan evacuate settlement from_
+order on_
+operate inside_
+open by_
+one of_ supporter of_
+monitor over_
+meet under_
+lose over_
+leave end to_
+launch stop
+launch across_
+issue by_
+invest dollar in_
+insist include
+inaugurate
+host talk between_
+have troops in_ force in_
+have support of_
+have say minister
+hail release of_
+go into_ talk with_
+fly for_ talk with_
+express for_ effort
+express concern about_
+escape
+enjoy
+downplay with_
+disarm
+destroy house in_
+deploy about_ troops in_
+decide send
+deal to_
+continue into_
+condemn abuse of_
+call on_ party in_
+call for_ force in_
+break away_from_
+berate
+be pay to_
+back call
+attack target in_
+argue against_
+appoint as_
+agree over_
+accuse of_
+worry in_
+welcome as_
+welcome visit
+vow with_
+vote in_ favor of_
+use at_
+urge after_
+try prevent
+threaten take to_
+threaten on_
+tell after_ meeting of_
+tell radio
+sweep into_
+supplier after_
+state of_
+start along_with_
+send on_
+sell in_
+seize by_
+seek tie with_
+see by_
+see as_
+say want to_
+say violation of_
+say undermine
+say support to_
+say report to_
+say have from_
+say hand
+say favor
+say difficult for_
+say cross from_
+say condemn
+say come in_
+say close in_
+say bomb
+say admit
+run drive
+resume from_
+report from_ disease on_
+reimpose on_
+rally behind_
+pull with_
+propose send to_
+propose from_
+propose by_
+predict
+pledge work with_
+participate in_ mission in_
+oppose airstrike
+one of_ donor to_
+move repel
+merge with_
+meet including_
+make mention of_
+lump
+lead into_
+investigate program
+hold with_ negotiator
+hold seat on_
+have mission in_
+hand in_
+halt on_
+forgive
+focus of_
+fight war with_
+expect on_
+estimate live in_
+enforce over_
+eager join
+dismiss with_
+discuss program
+differ with_
+die from_
+die crash in_
+deploy as_ part of_
+demolish home of_
+deliver from_
+define
+decide to_
+cross to_
+cosponsor it oppose by_
+coordinate
+convict in_
+convene on_
+condemn kill in_
+condemn remark
+command
+co-sponsor along_with_
+claim by_
+censure
+build plant in_
+boycott bring
+block protect
+begin join
+begin consist of_ tanzania
+be leave for_
+be on_ tour include
+be in_ touch with_
+be gain from_
+backer along_with_
+attend at_
+ask on_
+arrive for_ summit with_
+appreciate support
+appear before_
+announce along_with_
+announce expulsion of_
+announce suspend with_
+announce leave
+angry at_
+anger by_
+agree with_ states
+acknowledge in_
+abide by_
+withhold to_
+welcome withdrawal of_
+welcome agreement
+warn at_
+visit discuss
+vie with_
+veto at_
+veto resolution in_
+urge condemn
+urge union
+turn from_
+try mediate between_
+travel from_
+threaten retaliate against_
+threaten intervene in_
+threaten impose on_
+target for_
+take over_
+take refuge in_
+submit on_
+sponsor along_with_
+spark with_
+sign on_behalf_of_
+set with_ aim protect from_
+set with_ aim protect by_
+set office in_
+seal border
+say after_ meeting of_
+say take on_
+say schedule
+say regret decision
+say receive assurance from_
+say prepare send to_
+say open in_
+say notify
+say lift on_
+say kidnap in_
+say hear from_
+say follow
+say fly over_
+say expel from_
+say expect to_
+say cut to_
+say consider for_
+say close with_
+say believe
+say accept by_
+repel
+release on_
+reject criticism of_
+reinforce with_
+refuse heed demand
+refuse grant
+recall in_
+reaffirm in_
+quote to_
+quote from_
+protest decision
+press into_
+prepare
+prefer
+plunge
+pledge provide
+patrol zone in_
+oppose attack on_
+nominate to_
+member expel
+member of_ asean comprise
+meet with_ leader in_
+meet for_
+meet by_
+meet president
+mediate in_
+make visit
+make after_ meeting with_
+leave visit
+leave meet with_
+lease to_
+kill in_ attack on_
+kill dozen of_
+invade with_
+insist give
+inflict on_
+inaugurate in_
+identify in_
+hope strengthen with_
+have power in_
+have national in_
+group
+go on_ trial in_
+give leave
+form
+force into_
+express over_ violence in_
+drop over_
+divide over_
+dismantle
+develop
+deploy under_
+deny violate
+deny receive from_
+deny hold
+denounce decision
+demonstrate against_
+decide keep
+crush
+confirm death of_
+conduct into_
+condemn attack kill in_
+compensate
+come under_ pressure from_
+catch
+castigate
+call end
+call for_ tie between_
+call for_ session of_
+call for_ relation with_
+broker end
+broker between_
+believe be in_
+begin visit to_
+be return to_
+be recognize
+be in_ negotiation with_
+assure to_
+ask travel to_
+arrive join
+apply in_
+announce resume through_
+announce provide to_
+agree grant
+act against_
+account for_ percent of_
+accept with_
+work closely with_
+wind in_
+win at_
+urge act against_
+turn against_
+tighten with_
+threaten force
+take alongside_
+take command of_ force in_
+suspend by_
+submit for_
+step
+sponsor talk between_
+speak at_
+sign allow
+set zone over_
+send fight in_
+seize to_
+seek improve with_
+see as_ symbol of_ past
+secure from_
+say at_ meeting of_
+say work for_
+say want from_
+say take by_
+say suspect
+say run for_
+say relay to_
+say plan in_
+say normalize with_
+say lodge with_
+say launch against_
+say kill during_
+say include from_
+say impose
+say hurt
+say force
+say extend to_
+say exchange with_
+say commit to_
+say be need for_
+say be under_
+say be between_
+say base
+run since_
+run bomb
+rule possibility of_
+rule action against_
+revise
+respond on_
+reoccupy most of_
+reject as_
+reject against_
+reiterate position
+refuse open to_
+refuse along_with_
+recommend extension of_ mandate of_
+rape
+raise on_
+press with_
+praise on_
+play by_
+plan join
+open embassy in_
+offer send
+member include afghanistan
+meet with_ ambassador of_
+mediate
+march into_
+make over_
+make sortie over_ zone in_
+maintain around_
+leave for_ trip to_
+lead to_ invasion of_
+lay in_
+launch attack against_
+kill in_ raid on_
+kill in_ crash in_
+kill three in_
+keep to_
+impose set of_ sanction against_
+hurl at_
+host among_
+host minister of_
+hit back at_
+head from_
+have troops make after_
+have operation in_
+go after_
+gain
+fail meet
+face on_
+extend with_
+express after_
+engage with_
+employ in_
+dispatch
+deploy soldier in_
+demand meeting of_
+cost
+contribute with_
+continue despite_
+confirm shoot
+confirm release
+confirm kidnap
+conduct on_ position of_ pkk in_
+condemn from_
+condemn kidnapping of_
+condemn arrest of_
+come under_ attack in_
+cancel debt
+call over_
+call for_ reform of_
+broker with_
+bring into_
+break into_
+brace for_
+boost to_
+bomb target in_
+block with_
+begin train
+begin by_
+begin at_
+be provide to_
+be hold talk with_
+be deliver to_
+be at_ invitation of_ association
+base for_
+ban in_
+attack by_
+assist in_
+arrest on_
+announce kill in_
+announce arrest
+ally since_ war liberate from_
+ally in_ war in_
+agree send
+agree pay
+agree meet
+agree to_ demand
+affair
+accuse government of_
+wrap to_ east take to_
+worry
+withdraw with_
+win to_
+win backing of_
+willing cooperate with_
+willing say
+welcome call
+warn over_
+warn for_
+warn leader
+vow keep in_
+vote report to_
+vote impose on_
+use block
+urge heed
+urge end
+urge allow
+urge release of_
+try convene with_
+try in_
+threaten cut with_
+tell group of_
+tap
+take toward_
+supporter
+support stance
+support position
+stop on_
+start at_
+stand to_
+spurn
+spill into_
+send plan country such_as_
+say view
+say strengthen with_
+say rule
+say request
+say ready help
+say raise
+say promise
+say open with_
+say maintain in_
+say leave in_
+say injure in_
+say have evidence of_
+say get from_
+say direct at_
+say develop relation between_
+say demand from_
+say continue cooperate with_
+say come for_
+say accept in_
+say report trust of_
+satisfy with_
+return visit
+return following_ visit to_
+restrict to_
+report visit
+reiterate opposition
+refuse join
+push for_ sanction against_
+protect in_
+proclaim from_
+proceed to_
+prepare from_
+pour on_
+oppose expansion of_
+opponent of_ invasion of_
+operate under_
+open against_
+occupy strip in_
+meet with_ official of_
+make accusation against_
+look with_
+lodge protest with_
+leave hold with_
+leave continue to_
+lead at_
+know as_
+join for_
+irk
+infiltrate
+impose punish
+hold after_
+have jurisdiction over_
+have arrangement with_
+hammer
+hail role
+grant in_
+foresee
+fly meet with_
+flee in_
+fail persuade
+extend sanction against_
+explode in_
+exile in_
+establish absorb
+enter from_
+encounter in_
+double to_
+discover in_
+disappear in_
+develop along_with_
+demand recognize
+decide provide to_
+criticize policy
+criticize plan
+consider on_
+confirm visit
+confirm receive from_
+condemn beheading of_
+collaborate with_
+cite by_
+change toward_
+carry across_
+call give
+call for_ ceasefire between_
+build station
+bring with_
+boycott in_
+beneficiary of_
+be in_ dispute with_
+be report agency of_
+be halt on_
+back bid join
+attend including_
+attend by_
+attend along_with_
+attend summit in_
+arrive start at_ invitation of_
+arrive conclude to_
+arrive to_ emirates
+arrive after_
+arrive after_ visit to_
+arrive en to_
+appoint head
+announce sanction against_
+announce return to_
+ally to_
+agree train
+agree suspend to_
+agree resume with_
+agree grant to_
+agree against_
+admit train in_
+accuse of_ spy for_
+accuse sudan support
+withdraw from_ part of_
+withdraw following_ lead
+win stage of_
+welcome resolution on_
+welcome plan
+warn into_
+vow continue in_
+visit discuss with_
+victim of_
+use basis in_
+urge stop in_
+urge engage in_ talk with_
+unleash in_
+thwart
+threaten stage into_
+tell newspaper
+take peacekeep in_
+take into_
+take delivery of_
+table to_
+support membership
+support bid join
+suffer fatality in_
+strike target in_
+storm into_
+start visit to_
+spend with_
+sign accord with_
+settle with_
+seize on_
+seize patrolling off_
+say over_
+say willing hold with_
+say stop
+say ship to_
+say see for_
+say lift
+say increase in_
+say heart of_ homeland
+say grant to_
+say flee
+say discuss between_
+say develop with_
+say count on_
+say consider against_
+say carry to_
+say break with_
+say base in_
+say advise
+run end crackdown on_
+rise to_
+rescue from_
+repatriate to_
+remove in_
+reluctant bear soldier from_
+release with_
+reject call for_
+reiterate commitment
+reiterate part of_
+register with_
+recognize in_
+ready say
+push from_
+pump into_
+publish
+propose despite_ opposition from_
+promise withdraw from_
+press for_ sanction against_
+prepare leave
+pledge provide to_
+pledge help rebuild
+plan deploy in_
+penetrate
+pelt
+peacekeep in_
+overrun
+outline to_
+one of_ supporter
+one of_ recipient of_
+offer hold with_
+occupy to_
+occupy from_
+nation sign with_
+name from_
+member of_ council along_with_
+member of_ association myanmar
+member of_ association of_ cooperation along_with_
+maintain along_with_
+lose on_
+listen to_
+launch under_ pretext disarm
+launch on_ target in_
+launch offensive against_
+kill in_ operation in_
+kill in_ clash in_
+join become alongside_
+include to_
+include zealand
+include luxembourg
+impose with_
+impose for_ invasion of_
+impose set of_ sanction on_
+important to_
+identify country raise as_
+hide in_
+help rebuild
+have for_
+have against_
+have ban in_ place for_
+have tell with_
+halt from_
+get with_
+fund in_
+fire missile at_
+find on_
+find from_
+extend peacekeep in_
+express at_ death of_
+exporter to_
+execute in_
+estimate be prisoner in_
+escape from_
+enemy of_
+due return to_
+down
+donor after_
+dismiss against_
+demonstrate outside_
+demolish house in_
+demand return of_
+declare against_
+council along_with_
+contribute to_ war in_
+consider by_
+conduct off_
+condemn along_with_
+condemn strike
+condemn plan
+condemn offensive
+concern in_
+come to_ rescue of_
+come
+co-sponsored it oppose by_
+close from_
+claim win with_
+celebrate from_
+cast on_
+call for_ deployment of_
+bring number of_
+bolster from_
+block from_
+block bid
+bind for_
+be address
+be under_ control of_
+be since_ war halt on_
+be since_ war halt
+be halt
+bar to_
+ban enter
+attend meeting of_
+ask visit
+appoint on_
+appeal from_
+announce make to_
+announce give to_
+announce establish with_
+allow cross into_
+allow by_
+agree support
+agree open to_
+agree at_ summit in_
+agree say with_
+admonish
+acknowledge to_
+work at_
+win against_
+welcome invitation
+warn after_
+warn pose to_
+want return to_
+want say minister
+vote impose sanction against_
+visit israel
+urge back
+turn heat on_
+try along_with_
+threaten end with_
+tell work with_
+tell be in_
+take tell
+struggle with_
+stress role of_
+state ratify after_
+slap from_
+signal for_
+sign treaty with_
+shock
+serve to_
+serve on_
+separate from_
+sensitive by_
+send over_
+send letter to_
+seize with_
+say soldier kill in_
+say work in_
+say withdraw
+say try in_
+say treat
+say surrender to_
+say strike in_
+say solve
+say shoot down
+say reduce in_
+say please
+say oppose by_
+say necessary for_
+say make from_
+say join with_
+say investigate
+say good for_
+say enter from_
+say encourage
+say discuss to_
+say cost
+say complete in_
+say assist
+say ask from_
+say approach
+say allow in_
+sail to_
+run with_
+rule on_
+rise in_
+return from_ visit to_
+request with_
+request in_
+remain at_
+relay to_
+reject plan
+reiterate stance
+refuse let
+recommend extend in_
+recognize status
+recognize annexation
+re-established with_
+push along_with_
+province within_
+protest outside_
+prompt from_
+produce
+praise contribution
+plan hold with_
+overcome
+order by_
+opponent along_with_
+offer withdraw from_
+meet with_ negotiator
+meet with_ counterpart from_
+meet minister of_
+mass to_ troops along_ border with_
+mass around_
+mark from_
+make of_
+link with_
+line behind_
+lift sanction on_
+lift closure of_
+lift blockade of_
+leg bring to_
+leave start to_
+land at_
+knock
+kill member of_
+kill five in_
+kill civilian in_
+join states
+inherit in_
+identify from_
+hostile to_
+host about_
+host meeting of_
+hope from_
+hit from_
+highlight with_
+have troops serve with_
+have quote
+hand over_
+go across_
+fall with_
+fail convince
+extend against_
+express for_ support
+expect visit
+exclude
+erect in_
+enemy
+emerge from_
+emerge as_
+earmark
+donate for_
+discuss including_
+die since_ beginning of_ operation in_
+deploy for_
+country establish with_
+cooperate in_
+consider like_
+consider for_
+confirm meet with_
+confine to_ headquarters in_
+condemn operation in_
+condemn attack kill
+colony of_
+claim be in_
+circulate resolution in_
+change on_
+chair
+caution postpone travel to_
+call stop
+call release
+call lift on_
+call for_ dialogue with_
+call for_ cease-fire in_
+build around_
+build across_
+bring before_
+board
+begin meet with_
+be leave
+be fly to_
+be in_ control of_
+back demand
+attract from_
+assume from_
+assassinate in_
+ask with_
+arrive brief
+approve into_
+announce reach with_
+announce grant to_
+allow leave for_
+agree let
+agree give to_
+adopt with_
+adopt in_
+account for_
+accept offer
+accept invitation
+_ from_
+work alongside_
+win from_ korea
+welcome lifting of_
+welcome formation of_
+welcome approval
+welcome sign between_
+warn leave
+warn of_ crisis in_
+want refer to_
+want place in_
+vow in_
+vote report
+visit meet with_
+visit india
+veto resolution condemn
+veto launch of_ talk between_
+v
+use refer to_
+use attack
+urge return to_
+upgrade
+total
+threaten pull out_of_
+threaten annex join
+testify in_
+tell afp in_
+switch from_
+surrender in_
+support from_
+support operation in_
+supply to_ militia in_
+suffer
+stress by_
+stop of_ tour include
+step for_
+smuggle into_
+set as_ deadline for_
+seek ease
+scrap with_
+say following_ talk with_
+say during_
+say work closely with_
+say want see
+say trap in_
+say tell need
+say serve in_
+say pull
+say miss in_
+say make on_
+say link to_
+say leave to_
+say lead to_
+say friend of_
+say file against_
+say face in_
+say face
+say expect visit
+say deploy with_
+say consider by_
+say consider cooperate with_
+say confirm
+say complete from_
+say bring
+say apply to_
+say _
+run by_
+reward
+resolve
+rescue in_
+report miss in_
+release for_
+reject into_
+reject including_
+regret decision
+refuse comment on_
+recruit
+recover from_
+recognize as_ government of_
+recipient after_
+ready send to_
+provoke
+present on_
+praise cooperation
+pour
+post in_
+play on_
+plan sell to_
+plan say minister
+pin on_
+pay say
+patrolling over_
+patrol zone over_
+pass resolution call on_
+part of_ territory
+outline
+order out_of_
+one of_ supplier
+one of_ ally of_
+mediator between_
+mass in_
+march to_
+make including_
+maintain be in_
+lodge complaint against_
+limit with_
+lie to_
+learn
+lead invasion of_
+launch win on_
+launch in_ bid topple
+launch raid in_
+launch airstrike on_
+kill in_ incident in_
+kill say medical
+join including_
+introduce at_
+impose ban on_
+host talk include
+hope on_
+hope say
+hold with_ minister of_
+hold percent of_
+hold exercise in_
+heap on_
+have seat on_
+have number of_ troops in_
+have cooperation with_
+have say ambassador to_
+have about in_
+hail relation between_
+fund
+fly on_
+fly for_
+fear forum for_ prosecution of_
+favor to_
+fall in_
+face at_
+express to_ government of_
+evacuate settlement in_
+enlist
+enjoy in_
+enforce in_
+endorse with_
+encourage by_
+echo to_
+due with_
+drive from_
+do for_
+develop in_
+deplore on_
+deny report of_
+defend maintain dispute
+decline
+declare establishment of_
+declare establishment of_ republic of_
+criticize government
+counter
+convene in_
+control with_
+continue provide to_
+confirm be in_
+conduct exercise in_
+condemn including_
+condemn slaying of_
+closest to_
+close border with_
+celebrate
+cause
+cast in_
+call support
+call stop in_
+call resume with_
+call resolve
+call help
+call on_ side in_
+call decision
+build to_
+build along_
+broker cease-fire between_
+blast with_
+believe hide in_
+be say office
+be say to_
+arrive on_ visit for_ talk with_
+arrest to_
+appreciate effort
+appoint from_
+announce take in_
+announce resume with_
+announce resume to_
+announce hold with_
+agree keep
+address to_
+acknowledge with_
+_ to_
+sea between_
+withdraw for_
+wipe
+welcome commitment
+want send into_
+want along_with_
+wait in_
+voice about_
+voice support for_
+urge hold with_
+urge abide by_
+try find to_
+try dissuade
+trigger in_
+touch in_
+threaten sanction against_
+thank to_
+tell session of_
+take replace
+support plan oppose by_
+support call
+supplier of_
+summon envoy
+sink collide with_
+sign prompt from_
+send troops inside_
+send aid to_
+select
+seek refuge in_
+seek extradition of_
+second of_
+say take place between_
+say response to_
+say reject by_
+say pass to_
+say operate in_
+say meet discuss
+say infiltrate into_
+say ignore
+say have impact on_
+say give for_
+say consider to_
+say be terrorist from_
+say be in_ interest of_
+say attach with_
+say aid
+run halt on_
+rule use punish
+rule to_
+rule by_
+rule strike on_
+round
+return wind visit of_
+retaliate for_
+response to_
+report at_
+report be in_
+renew mission in_
+remember
+reject plan for_
+reject idea of_
+reject put by_
+reinforce in_
+regret by_
+refuse request
+record
+recall in_ protest of_ use
+rebut
+ready cooperate with_
+ready tell
+raise over_
+put at_
+push for_ role in_
+provide from_
+propose at_
+promise release
+promise in_
+promise minister of_
+pledge release
+pledge aid for_
+plan install in_
+parachute into_
+order at_
+oppose from_
+one with_
+one join
+negotiate on_behalf_of_
+nation in_
+member comprise
+meet with_ delegation from_
+meddle in_
+make tell
+maintain embargo against_
+look in_
+limit
+liken
+lift sanction impose on_
+leave from_
+leave after_ talk with_
+lavish on_
+launch invasion of_
+launch kidnap
+kidnap by_
+join close in_
+insist withdraw from_
+injure by_
+ignore by_
+host of_ talk involve
+hold off_
+hold at_ bay
+hold about_
+hire
+have about_
+have unit in_
+have troops from_
+have influence in_
+have contingent of_ troops in_
+hang
+hand percent of_
+hail visit
+grow in_
+form call front against_
+form call for_ war against_
+fire missile fly over_
+find with_
+fall to_
+fail in_
+extend visit
+express reservation about_
+establish ties with_
+enjoy to_
+endorse in_
+endorse for_
+end at_
+drag
+dock in_
+distribute to_
+dismiss claim
+disagree over_
+die of_ wound in_
+die in_ accident in_
+deny fire at_
+denounce plan
+denounce attack in_
+demonstrate in_
+deliver on_
+deliver in_
+delay with_
+defend from_
+defend by_
+declare for_
+decide send back to_
+decide
+country along_with_
+control to_
+control percent of_
+consider sanction against_
+confirm miss in_
+confirm attack
+conduct on_
+conduct from_
+condemn raid on_
+condemn raid
+cast
+carry at_
+call solve
+call on_ union
+call for_ role in_
+call for_ role for_
+call for_ return of_
+call leader of_
+call government
+bone of_ contention between_
+blame base in
+begin deploy in_
+be in_ favor of_
+be in_ discussion with_
+be say part of_
+be quote
+base troops in_
+back plan oppose by_
+approve plan
+announce release of_
+announce meet
+announce decide start with_
+amount to_
+agree work with_
+agree suspend during_ talk with_
+agree help
+agree extend in_
+agree buy
+agree attend with_
+adopt resolution against_
+administer help drive
+address in_
+add from_
+accuse along_with_
+abuse
+germany
+work from_
+withhold from_
+withdraw seek
+willing strengthen with_
+wedge between_
+want sell to_
+vow
+vote in_
+visit after_
+visit say ministry
+veto for_
+use train
+use by_
+urge prevent
+urge like_
+urge support for_
+urge ruler
+try improve with_
+try bring
+trigger from_
+tread on_ ground with_
+throw on_
+threaten wipe
+third after_
+tell by_
+tell afp receive
+tell hold with_
+talk
+take including_
+supporter on_
+support join
+support bid for_
+stop into_
+step attack on_
+steal
+start pull from_
+stage outside_
+speak about_
+snatch
+slam with_
+sign for_ victim of_
+sign after_
+sign report agency of_
+shoot palestinians in_
+settle in_
+set protect
+set by_
+seek deal through_ talk involving_
+seek release of_
+seek cooperation with_
+scale in_
+say following_ meeting with_
+say during_ meeting with_
+say at_ conference with_
+say want see in_
+say use with_
+say suspend in_
+say resolve with_
+say press for_
+say oblige
+say need defend against_
+say learn from_
+say increase to_
+say freeze with_
+say expect by_
+say demand
+say charge
+say capture from_
+reunite with_
+retaliate on_
+resume under_
+respond from_
+report overcome
+remain with_
+reject send to_
+reject bid
+reiterate call for_
+regret in_
+refute by_
+refuse endorse
+refuse in_
+refuse for_
+recommend extension of_
+recommend extend
+recognize state of_
+receive on_
+receive by_
+rebuff from_
+ready say minister
+react in_
+raise for_
+pull troops from_
+protect base in
+press against_
+present iran with_ package
+praise progress
+play role between_
+petition
+penetrate into_
+part include
+organize for_
+open fire on_
+one of_ donor
+offer train in_
+note
+normalise with_
+neighbor along_with_
+negotiation on_behalf_of_
+need say minister
+name against_
+mull to_
+move closer to_
+monitor zone over_
+member of_ association thailand
+meet discuss from_
+meet with_ group of_
+mark in_
+make before_
+make as_
+maintain force in_
+leave join
+leave discuss with_
+leave at_ end of_ visit to_
+launch under_
+launch attack military
+kidnap from_
+kick with_
+invade by_
+host meeting between_
+hope enhance with_
+hold discuss situation in_
+head of_
+have part of_
+hand control of_
+hail agreement between_
+grateful to_
+go over_
+form in_
+form associate
+fire into_ sea of_
+finish neck-and-neck with_ standout such_as_
+fear destabilize war on_
+face against_
+exporter behind_
+explore in_
+exempt
+estimate flee to_
+estimate be from_
+escort to_
+escalate in_
+escalate against_
+enforce
+drop leaflet over_
+drive to_
+draft resolution give
+die with_
+describe exercise involving_
+deploy attack
+deny threaten
+decide sever with_
+decide release
+decide pull out_of_
+cut tie with_
+criticize against_
+convene
+control part of_
+continue pound
+continue cooperate with_
+continue operation in_
+continue tell
+congratulate in_
+confiscate
+confirm arrest of_
+conduct with_ poland republic
+conduct against_
+complain in_
+compare to_
+commit with_
+come visit
+come against_
+clash over_ law with_ member such_as_
+clash on_
+cite boycott with_
+characterize
+chair meeting attend from_
+celebrate with_
+carry by_
+cancel in_
+campaign for_
+call on_ leader
+call including_
+call for_ role of_
+call for_ creation of_
+buy two-thirds of_ export
+build reactor
+brief to_
+boycott talk involving_
+besiege
+belong to_ grouping along_with_
+begin pull from_
+begin into_
+be sign with_
+be korea
+be on_ way to_
+be on_ ground in_
+be among_ country support along_with_
+be among_ country join
+be among_ country advise in_
+battle with_
+ban travel to_
+ban invade
+back over_
+ask stop
+ask condemn
+arrive for_ talk in_
+arrest by_
+argue for_
+appeal with_
+anxious secure
+announce after_ summit in_
+announce sign with_
+announce cancel to_
+announce ban
+allege involve
+agree pay to_
+agree extend
+agree cooperate on_
+adopt give
+administer following_
+administer end by_
+add by_
+adamant maintain suspension
+win for_
+welcome release
+warn face
+want withdraw from_
+vow strengthen with_
+vow block
+use smuggle from_
+use from_
+urge visit
+urge put pressure on_
+try join
+try with_
+travel on to
+threaten stop cooperate with_
+test in_
+tell on_ sideline of_
+tell in_ capital
+tell send to_
+technically with_
+sweep through_
+suspend operation in_
+supporter of_ invasion of_
+support tell
+strain with_
+step into_
+stand behind_
+split on_
+sit in_
+similar to_
+sensitive by_ korea fire over_
+send over_ death of_
+seek isolate
+seek bring
+seek over_
+second
+seat of_
+search in_
+say on_behalf_of_
+say in_ city
+say following_
+say after_ meeting between_
+say represent
+say decision
+say willing meet
+say sue
+say sign agreement with_
+say shoot over_
+say send in_
+say seize from_
+say seek in_
+say resist
+say rely on_
+say reject from_
+say reduce to_
+say reach agreement with_
+say present
+say play rebuild
+say place
+say participate in_
+say monitor
+say make
+say like see
+say head for_
+say fire
+say expect return to_
+say criticize
+say continue resist
+say condemn on_
+say call in_
+say begin in_
+say ask in_
+say arrive from_
+say allow leave
+say allow enter
+revoke visa of_
+review in_
+respond with_
+respond at_
+report meet with_
+report ask
+reopen embassy in_
+renew criticism of_
+render to_
+remain take after_ coup by_
+reliant on_
+reject independence
+reiterate from_
+register
+refuse give to_
+refuse extradite
+refuse bow to_
+recover in_
+recognize as_ part of_
+recall with_
+reaffirm support
+ready say with_
+react to_ decision
+react from_
+ratify together_with_
+quit over_
+push through_
+purchaser of_
+pull after_ bombing at_
+provoke in_
+provide aid for_
+protest on_
+present from_
+present for_
+postpone by_
+plan meet
+pay on_
+pay from_
+pay percent of_
+pass on_
+order closure of_
+oppose give
+oppose war on_
+open talk with_
+one of_ country along_with_
+one recognize
+offer host talk between_
+occupy strip of_
+murder in_
+meet discuss by_
+meet with_ head of_
+meet with_ envoy of_
+march in_
+make toward_
+maintain tie with_
+maintain embassy in_
+leave on_ trip to_
+lead force in_
+lead condemnation of_
+lay for_
+launch inside_
+kill during_ operation in_
+kill wound in_
+kill gunman in_
+kill boy in_
+issue condemn
+intervene stop
+insist involve
+insist allow
+indicate to_
+impose since_ invasion of_
+impose zone in_
+important for_
+implicate from_
+huddle with_
+host counterpart from_
+host of_ talk include
+hope in_
+hold along_with_
+hold round of_ talk over_
+hold referendum on_
+have than_
+have veto on_
+have sanction against_
+have medic operate in_
+have storm
+harass
+grant for_
+go visit
+force land in_
+follow on_
+fight since_
+favor in_
+extend for_
+express to_ family of_
+express over_ test
+express solidarity with_
+examine in_
+establish state in_
+end satisfy
+eject
+due take from_
+due report to_
+due discuss
+due brief
+draft in_
+divert to_
+dismiss on_
+disappoint by_
+direct
+detect in_
+destine for_
+derail
+deploy near_
+deny interfere in_
+decline send to_
+criticize for_
+crash
+country
+cooperate on_
+continue lobby from_
+continue assist
+consider offer to_
+consider along_with_
+conduct to_
+conduct operation in_
+complain from_
+commemorate
+come at_
+circulate resolution on_
+cause to_
+call upon_ government of_
+call for_ support for_
+call for_ settlement of_
+call for_ expulsion of_
+call for_ expansion of_
+call along_with_
+call leader
+buyer
+buy in_
+broker truce between_
+break at_
+blow kill
+block on_
+blame from_
+be meet in_ wednesday with_
+be meet at_
+be deploy in_
+be say spokesman for_
+be help drive
+award land occupy to_
+arrest with_
+appreciate to_
+announce send
+announce receive from_
+announce pull out_of_
+announce break with_
+agree sign in_
+agree invite
+agree buy from_
+agree to_ request
+agree say ministry
+adopt toward_
+admit abducted
+administer halt on_
+administer halt by_
+adhere to_
+_ as_
+wrap visit to_
+wound in_ attack in_
+world along_with_
+work say with_
+withdraw fly over_
+willing make with_
+welcome withdrawal
+warn defer to_
+warn threaten in_
+warn refer to_
+vow shoot
+urge refer to_
+urge lift against_
+urge lift
+urge side in_
+urge member of_
+uphold
+unleash against_
+trade in_
+tighten in_
+tighten blockade of_
+throw with_
+throw in_
+threaten close
+threaten annex part of_
+testify before_
+test-fired splash
+talk on_
+take under_
+take line on_
+take republic
+switch to_ derbez include
+support including_
+support entry
+supply in_
+submit resolution call on_
+study add
+strengthen in_
+strengthen
+start under_
+stand during_ activity in_
+sponsor meeting attend from_
+spearhead despite_ call from_
+speak
+sign during_ visit of_
+shut to_
+serve peacekeep in_
+send message to_
+send stick in_
+seek act on_behalf_of_
+seal to_
+schedule at_ request of_
+say during_ talk with_
+say as_
+say win
+say willing talk to_
+say want on_
+say telephone
+say sympathetic to_
+say support with_
+say stand with_
+say shoot in_
+say shell
+say seize in_
+say respect
+say respect decision
+say resolve dispute with_
+say remove from_
+say reject with_
+say regret by_
+say reduce
+say raise in_
+say protect
+say prepare for_
+say possible for_
+say plan meet with_
+say pay
+say need keep
+say launch to_
+say launch from_
+say kill in_ crackdown
+say infiltrate from_
+say give in_
+say fight in_
+say favor in_
+say evacuate from_
+say do in_
+say destine for_
+say crash in_
+say cover
+say clash with_
+say blame
+say believe want with_
+roll carpet for_
+return pay to_
+restrict with_
+restrict along_with_
+respond into_
+resolve with_
+resist call for_
+renew call for_
+remain recommend add
+regret on_
+refuse take nation such_as_
+refer as_
+recommend for_
+recognize by_
+receive including_
+receive about_
+receive _ bosnia
+reach from_
+reach agreement on_
+put number of_
+push for_ dialogue instead_of_
+push at_
+province before_ breakup of_
+provide help
+provide about_
+protectorate end
+protect from_
+probe in_
+press send to_
+press for_ meeting of_ president of_
+preside over_ committee niger
+pour repel
+postpone on_
+pledge strengthen with_
+pledge troops for_
+plan send
+plan meet in_
+plan deploy interceptor in_
+pick in_
+part of_ quartet along_with_
+own
+outnumber
+organize to_
+order into_
+oppose independence for_
+oppose decision
+one on_
+one of_ member along_with_ states
+offer sell to_
+occupy on_
+observe in_
+note in_
+need develop from_ country like_
+move toward_
+mount into_
+member like_
+meet amid_
+meet after_
+maintain sell to_
+list pkk step on_
+list pkk step in_
+likely to_
+leave iraq ahead_of_
+lean on_
+lead camp include
+launch cooperate with_
+launch satellite for_
+land on_
+label with_
+label along_with_
+kill in_ bombing in_
+kick visit to_
+keep about_ troops in_
+join criticize
+join at_
+issue from_
+investor in_ africa after_
+invade recognize by_
+introduce from_
+inspect in_
+insist from_
+include troops from_
+impose accuse
+house
+host by_
+host at_
+host round of_ talk between_
+hope receive join
+hope attend state including_
+hold around_
+hold consultation on_
+hold blast
+hoist
+hit on_
+hint prepare
+have by_
+have as_ part of_
+have role in_
+have backing of_
+have access to_
+have disrupt call on_
+have seize
+have make with_ government of_
+halt about_
+good for_
+go to_ war against_
+go into_ north of_
+give in to
+forge add
+follow from_
+fly keep on_
+first of_
+fire against_
+file suit against_
+ferry
+fail get
+fail
+extend authority over_
+express into_
+express concern over_ program
+expel ambassador
+exceed
+establish with_ country including_
+endorse from_
+employ from_
+eager for_
+dub
+draw package back by_
+divide from_
+displace in_
+dispatch in_
+discuss iraq
+develop solve impasse in_
+detain at_
+destroy kill
+describe for_
+deploy on_
+deny against_
+demand as_ part of_ shakeup of_
+defeat army of_
+decertify
+criticize fear conflict between_
+criticise to_
+country than_
+country following_
+convey from_
+convene meeting of_
+contributor to_ force in_
+continue help
+consider program aim
+congratulate to_
+condemn of_
+condemn policy
+condemn move
+condemn carry by_
+co-sponsor with_
+close during_ war between_
+clear in_
+claim kill
+circulate endorse independence for_
+chase
+change to_
+chair in_
+cast against_
+carve protect by_
+cancel after_ discussion between_
+call implement
+call fulfill
+call allow
+call for_ withdrawal from_
+call as_ debate over_
+buzz
+buy worth of_
+build reactor in_
+break to_
+break tie with_
+breach
+be transfer to_
+be receive normalize with_
+be provide
+be join from_
+be attend
+be on_ mission in_
+be at_ invitation of_ institute
+be be benin
+back support force from_
+back enlist support of_
+arrest palestinians in_
+apply on_
+answer
+announce after_ talk with_
+announce give
+announce donate
+ally for_
+allow with_
+airlift
+aim for_
+agree transfer to_
+agree supply to_
+agree meet in_
+agree report agency
+adopt to_
+admit in_
+administer end crackdown on_
+accuse including_
+account
+abstain vote luxembourg
+_ in_
+poland
+write from_
+work together_with_
+welcome against_
+wave
+watch in_
+want refer
+want bring before_
+vow support
+vow continue
+vow boost with_
+vote keep in_
+vote extend mission in_
+vote at_
+visit japan
+veto on_
+use smuggle into_
+urge take against_
+urge open with_
+urge rebel
+unite with_
+try push
+try mend with_
+try meet
+travel meet
+transfer from_
+tolerate
+tie
+thwart attempt
+threaten shoot
+test-fired report trust of_
+territory of_
+tell for_
+tell after_
+tell member of_
+tell kill
+take along_with_
+take role in_
+tackle
+sympathetic to_
+sue in_
+submit at_
+strike into_
+stop with_
+step cooperation with_
+state to_
+stand at_
+stand tell
+speak in_ favor of_
+spare
+source of_
+solve
+sign contract with_
+show on_
+send meet with_
+seize at_
+seek into_
+seek extradition from_
+secure in_
+second after_
+secede from_
+seal off_
+scrap
+say in_ statement release in_
+say ahead_of_
+say after_ meeting in_
+say talk between_
+say willing meet with_
+say welcome decision
+say want work with_
+say vote on_
+say suspend from_
+say spend
+say show
+say share
+say review to_
+say recognize right
+say recall from_
+say push
+say kill with_
+say keep
+say invite to_
+say include in_
+say hope visit
+say hold on_
+say help in_
+say have by_
+say have backing of_
+say grant
+say go with_
+say focus on_ situation in_
+say face from_
+say establish in_
+say escort
+say end with_
+say detect activity in_
+say concerned about_
+say close
+say carry
+say buy from_
+say be question of_
+say be of_
+say be in_ interest
+say base on_
+say approve
+say agree give
+say agree on_
+say admit only
+say act on_
+say accept with_
+say abandon
+salute
+sail into_
+ruler of_
+route to_
+round in_
+reveal to_
+resume talk with_
+restore
+respond accuse
+report tell
+reply to_
+renew sanction against_
+remain over_
+reject remark
+reject appeal
+reiterate over_
+refuse deal with_
+refuse demand
+refer in_
+ready quote
+reach with_ zealand
+re-establishes with_
+raise about_
+question in_
+put from_
+push by_
+propose deliver to_
+promise send to_
+priority for_
+pressure on_
+pledge disarm
+pledge dollar for_
+plant in_
+plan base unit in_
+plan base interceptor in_
+place with_
+pass on to
+partner following_
+out of_
+order release of_
+oppose sanction on_
+oppose independence
+opponent to_ war in_
+opponent in_
+one including_
+offer support for_
+occupy most of_
+occupy heights
+obtain in_
+negotiate over_
+need with_
+need tell
+member of_ partnership
+member alongside_
+meet with_ chairman of_
+meet say office
+mark with_
+mark to_
+make through_
+maintain after_
+maintain sanction against_
+leave following_ visit to_
+leave here for_
+lay on_
+launch strike against_
+launch attack in_
+kill in_ explosion in_
+issue between_
+investigate by_
+interfere in_
+interfere in_ affair
+insist resolve
+insist be under_
+injure in_ accident in_
+influence
+increase for_
+host involve
+host leader of_
+hope sign with_
+hope improve with_
+hope bring to_
+hope say with_
+honor in_
+hold one of_ seat on_
+hold meeting on_
+hold say minister
+hijack in_
+highlight to_
+help with_
+hear on_
+have unlike_
+have on_ situation in_
+have at_
+have around_
+have reservation about_
+have representative in_
+have power on_
+have inspector in_
+have say to_
+harbor
+go
+give at_
+fly meet
+flout
+finish to_
+find to_
+find by_
+find at_
+file complaint against_
+fail reach on_
+extend to_ government of_
+extend from_
+extend mandate of_ mission in_
+extend mandate of_ force in_
+express over_ move
+express willingness
+expel from_ bank to_
+exchange
+estimate
+establish relation with_
+end from_
+ease in_
+ease blockade of_
+due meet discuss
+due leave for_
+due for_ talk with_
+drive in_
+dispute by_
+discover
+disclose to_
+disappoint
+demand leave
+declare war against_
+decide take
+decide halt with_
+decide expel
+decide allow
+cut by_
+cut short to_
+criticize from_
+critical in_
+crash near_
+country recognize regime
+convene with_
+contribute to_ mission in_
+contribute for_
+continue defy
+construct in_
+consider part of_
+confirm for_
+confirm release of_
+confirm enter
+conduct near_
+conduct including_
+condemn strike on_
+condemn kidnapping against_
+condemn attack near_
+committed to_
+cloudy over_
+claim to_
+claim violate
+claim use
+claim give
+charge receive from_
+call pull out_of_
+call pressure
+call in_ ambassador
+call for_ suspension of_
+call for_ restraint in_
+call for_ change in_
+call monday for_
+broker sign with_
+bomb by_
+bolster
+blast by_
+blame by_
+begin visit
+begin for_
+be redeploy on_
+be fly from_
+be together_with_
+be since_ end of_
+be in_ delimitation of_ shelf in_
+be as_ guest of_
+be among_ partner
+backer
+authorize handle with_
+attend for_
+ask withdraw from_
+ask by_
+arrive continue
+arrive at_ base in_
+annoy
+announce after_ month of_ negotiation with_
+announce invite
+announce donate to_
+announce arrest in_
+ally on_
+allege in_
+allege by_
+alert in_
+agree meet with_
+agree host
+agree extradite to_
+agree deploy in_
+agree tell
+advise avoid to_
+advance into_
+adopt by_
+adopt take control of_
+act on_
+act in_
+achieve from_
+accuse ruler
+accuse syria harbor
+accuse israel use in_
+accept visit
+accept credentials present to_
+yield to_
+wound with_
+work envisage pullback in_
+work roadmap envision
+work say broadcast in_
+withdraw after_
+withdraw from south
+welcome role
+welcome initiative
+welcome cyprus republic
+warn strike
+warn be in_
+want tie with_
+walk with_
+wage with_
+vow fight
+vow cooperate with_
+vote lift on_
+vote
+voice for_ bid
+vie for_
+veto resolution on_
+urge solve
+urge respect
+urge reconsider persuade
+urge impose on_
+urge return of_
+urge people of_
+urge party in_
+unveil place in_
+two of_ neighbor
+two raise to_
+try sell to_
+tighten
+threaten strike
+test-fired over_
+tell daily
+teach
+take together_with_
+take whole of_
+take charge of_ force in_
+tackle see to_
+sympathize with_
+suspend talk with_
+support independence include
+strip
+stress need for_
+strand in_
+stop include
+step offensive in_
+steal from_
+start visit
+start into_
+start tour of_
+split with_
+spend to_
+speak of_ cooperation with_
+speak after_ talk with_
+slam decision
+sit on_
+sink off_
+sink in_
+sign extend republic
+sign end in_
+sign agreement with_ japan
+show by_
+shoot palestinian in_
+send train
+send support in_
+send back accuse
+send under_
+send troops for_
+seek strengthen with_
+seek engage
+seek buy from_
+seek support from_
+see program
+score
+say win blessing of_
+say welcome in_
+say throw at_
+say take for_
+say support for_
+say stop to_
+say set in_
+say serious situation in_
+say sell
+say return to_ talk involving_
+say resume in_
+say require in_
+say require
+say regret in_
+say register in_
+say ready withdraw from_
+say ready go to_
+say ready for_ dialogue with_
+say propose in_
+say please with_
+say opportunity for_
+say open by_
+say matter for_
+say look work with_
+say limit to_
+say kill from_
+say isolate
+say introduce
+say intervene in_
+say host
+say hope for_
+say hold at_
+say have on_
+say have meeting with_
+say have knowledge of_
+say focus in_
+say deliver _
+say concerned about_ situation in_
+say concentrate on_
+say build in_
+say be meet with_
+say be visit to_
+say be in_ breach of_
+say await from_
+say await
+say attach develop with_
+say agree minister of_
+say agree to_ talk involving_
+say affair
+say abide by_
+save
+route drive in_
+revise to_
+revise in_ bid gain from_
+retain in_
+result in_
+responsible in_
+resent
+report including_
+report set
+report set spain
+report land in_
+report fire from_
+report arrive in_
+repeat with_
+rent from_
+remain at_ odds over_
+rely on_ map draw with_
+relinquish to_
+relieve
+relaunch with_
+reject decision
+regret over_
+regard land
+refuse sign with_
+refuse give
+refuel in_
+receive visit
+receive for_
+reach over_ island consultation by_
+reach on_ implementation of_ ceasefire between_
+reach allay
+re-entered
+raise at_
+raise number of_
+put under_
+push despite_ collapse of_
+prove for_
+propose envisage to_
+propose deadline for_
+promote in_
+promise offer to_
+pressure avoid in_
+press member of_
+present in_ bid gain from_
+praise relation between_
+pledge defend security of_
+pledge boost with_
+pleased with_
+plan attack
+plan for_
+place sanction on_
+pass give
+pass with_
+pass against_
+partner to_
+partner along_with_
+participate peacekeep in_
+part of_ force in_
+oppose by_ states
+oppose campaign
+oppose accession
+oppose pad for_
+oppose back
+one of_ critic of_
+offer mediate in_
+offer allow
+offer by_
+negotiate through_ talk include
+name head
+move reassure
+move after_ attack on_ parliament
+member angola
+member of_ gcc include
+member of_ council include
+member of_ asean include
+member after_
+member also
+meet with_ envoy
+meet before_
+make during_
+make say with_
+make quote
+maintain by_
+link pull
+let into_
+leg of_ mission bring to_
+leave for_ tour take to_
+lead after_
+launch invite
+launch over_
+launch near_
+launch along_with_
+launch strike in_
+launch operation against_
+launch bid for_ seat on_
+kill people in_
+kill one in_
+kill militant near_
+join together_with_
+jockey for_ influence in_
+issue call for_
+introduce with_
+insist violate
+infiltrate in_
+imprison in_
+hospitalize in_
+hope see
+hope receive join in_
+hope transform
+holder of_
+hold discuss in_
+hold with_ minister
+hold off_ coast
+hold against_ clause model on_
+help for_
+head toward_
+head on_
+have since_ the of_
+have as_
+have about_ troops in_
+have troops station under_
+have stake in_
+have rights over_
+have consulate in_
+have all appeal to_
+have say on_
+hand for_ reunification of_
+hammer in_
+hail reach between_
+guarantor of_
+guarantor of_ treaty between_
+greet in_
+go to_ war with_
+give through_
+get year in_
+fire in_ direction of_
+finish in_
+find body of_
+file from_
+file lawsuit against_
+fight oust
+fight for_
+fight war against_
+fight independent from_
+feel put in_ hand of_
+fault
+fail win
+face persuade
+extradite trafficker to_
+express to_ people of_
+express thanks_to_
+express over_ announcement
+express support
+express regret over_
+express encourage independence for_
+expect join
+expect by_
+exchange from_
+enjoy from_
+endorse to_
+endorse on_
+encourage with_
+ease with_
+ease to_
+earmark to_
+draft from_
+draft call to_
+displace
+discourage
+die along_with_
+detect
+describe against_
+deploy at_ request of_
+deplore test
+deny receive
+deny attack
+denounce from_
+demand at_
+demand withdrawal
+demand that
+defend right
+declare to_ offensive in_
+declare kill
+decide refer to_
+decide postpone to_
+damage
+customer for_ industry
+criticize attack on_
+create with_
+create for_
+country on_
+country have treaty with_
+country have relation with_
+control in_
+control swath of_
+continue say
+confirm wound
+confirm travel to_
+confirm hold with_
+confine in_
+condemn violation of_
+condemn invasion of_
+condemn execution of_
+condemn bombing kill in_
+condemn call in_
+concentrate on_
+complete follow in_ footstep of_
+complain into_
+come to_ rescue of_ government
+come over_
+classify
+claim cross into_
+chairman of_
+carry raid on_
+carry airstrike in_
+capture town near_
+call to_ conflict in_
+call on_ government
+call meeting on_
+broker round of_ talk with_
+boycott talk with_
+boost set organization with_
+bomb reactor
+begin release
+begin receive from_
+begin negotiate with_
+begin leave
+begin after_
+become join
+be hold on_
+be head to_
+be go to_
+be at_ center of_
+be among_ country including_
+be say oppose
+be en to_
+aware of_
+authorize deployment of_
+authorise
+attend ceremony of_
+assume presidency
+assassinate
+arrive including_
+arrive for_ talk with_ leader of_
+arrive at_ start of_ visit to_
+arrest for_ liberation of_
+arrest at_
+arrange in_
+arm in_
+argue restrict to_
+argue give
+announce plan bring
+announce appointment of_
+announce transfer to_
+announce sever with_
+announce pay visit to_
+announce accept
+allow use
+alarm
+aim join
+agree keep in_
+agree hold on_
+agree freeze with_
+agree end in_
+agree create from_
+agree to_ talk with_
+agree in_ talk with_
+agree play rebuild
+affirm to_
+adopt from_
+add on_
+accuse rape
+accuse leader
+accuse liberia support
+accuse iran support in_
+accuse iran interfere in_
+accompany for_
+accept for_
+abstain from_
+absolve
+_ back
+wound on_
+worry by_
+work persuade find to_
+work along_with_
+withdraw seek disarm
+wind visit to_
+willing enhance with_
+welcome of_
+welcome nomination of_
+warn avoid to_
+warn of_ disaster in_
+warn if_
+warn support
+warn jeopardize
+warn damage with_
+want send
+want reduce inspection of_
+want improve with_
+want say with_
+vow work with_
+voice to_ strike against_
+visit by_
+veto renewal of_
+use for_
+urge respond to_
+urge pull out_of_
+urge press
+urge follow
+urge consider leave
+urge approve
+unveil for_
+try reassure
+try negotiate release of_
+try resolution to_ standoff between_
+tie with_
+threaten punish
+threaten annex
+tell refer to_
+tell minister
+tell receive from_
+tell ask
+talk in_
+take before_
+take hundred of_
+take administration of_
+suspend for_
+suspend as_ gesture toward_ negotiation with_
+support turkey
+support into_
+support independence
+support demand
+supplier for_
+suggest on_
+suggest for_
+submit seek
+strike to_
+stop include to_
+stay out_of_
+start pull out_of_
+start arrive in_
+stand from_
+stand alongside_
+stage off_
+spearhead reach to_ standoff with_
+slam at_
+sit from_
+signal send to_
+sign buy
+sign build in_
+sign bring into_
+sign under_
+sign on_ entry
+sign next_to_
+shun complain
+shoot over_
+share
+sever tie with_
+set base in_
+serve as_ base for_
+send to_ water
+send to_ people of_
+send to_ luxembourg
+send on_behalf_of_
+send including_
+send in_ troops route
+seize off_
+see for_
+seal in_
+scorn
+say speak on_behalf_of_
+say worsen in_
+say willing strengthen with_
+say violate airspace
+say travel meet with_
+say trap
+say tolerate
+say take refuge in_
+say smuggle into_
+say send from_
+say send back to_
+say review with_
+say review
+say result of_
+say repulse
+say represent in_
+say remain with_
+say remain on_
+say refuse
+say reflect in_
+say reflect
+say postpone with_
+say possible in_
+say partner of_
+say order to_
+say oppose on_
+say need defend to_
+say meet to_
+say make in_ talk with_
+say limit
+say launch with_
+say judge
+say join in_
+say intrude into_
+say interested in_
+say inflict on_
+say improve with_
+say help visit to_
+say have report of_
+say file with_
+say extend deadline for_
+say expand with_
+say evacuate to_
+say evacuate
+say essential for_
+say envision
+say drop
+say discuss with_ leader of_
+say discuss on_
+say discuss issue of_
+say detect in_
+say deport to_
+say damage
+say cut in_
+say consider from_
+say confirm in_
+say conduct with_
+say concern direct at_
+say carry with_
+say be threat in_
+say be relation between_
+say be at_
+say ban
+say attend in_
+say approve in_
+say allow from_
+say agree meet with_
+say agree hold with_
+say agree in_
+route for_ east to_ market in_
+return after_
+retain basis in_
+resume against_
+reside in_
+rescue by_
+represent to_
+report movement of_
+report enter
+replace to_
+remove to_
+reluctant back
+rejoin
+reject over_
+reject move
+reject declaration
+reject criticism
+reject constitution
+reject keep on_
+reject keep
+reiterate stand
+reiterate call
+reinforce
+refuse say
+refuse release
+refuse expel
+refuel from_
+refrain criticize
+receive dollar in_
+recall condemn term by_
+rebuild
+reach between_
+raise from_
+rain on_
+quiz
+put for_
+provider
+propose hold with_
+propose under_
+promise support
+promise provide to_
+produce in_
+press across_
+praise support
+post to_
+pledge give
+pledge from_
+plead to_
+plead for_
+play as_
+plan open in_
+plan evacuate settlement in_
+plan tell
+pinpoint
+pay to_ troops in_
+patrol from_
+participate in_ operation in_
+participant tell
+oppose return of_
+oppose deployment of_
+open over_
+open kill
+open way for_
+open consulate in_
+one alongside_
+one sign with_
+offer resume with_
+offer contribute to_
+offer aid to_
+occupy with_
+not join
+neighbour
+negotiate join
+negotiate for_
+need cooperate with_
+move into_ seven of_
+move by_
+mourn
+mourn loss of_
+mock
+meet consider
+meet with_ ambassador
+meet during_
+meet requirement of_
+meet say spokesman for_
+mean
+make after_ talk with_
+maintain disappear during_
+list state include
+list pkk increase in_
+leave begin to_
+leave on_ tour of_
+leave for_ talk in_
+leave shanghai for_
+lead to_ war in_
+launch topple
+launch against_ target in_
+largest after_ that of_
+kill leader in_
+kill 3 in_
+keep from_
+keen join
+join by_
+join plan
+issue declaration on_
+invade third of_
+introduce along_with_
+insist leave
+initiate aipo set by_
+infiltrate into_
+indict for_ crime in_
+increase in_ march over_ refusal
+impose on_ import of_
+impose restriction on_
+impose closure of_
+implore
+identify as_ member of_
+huddle with_ envoy from_
+host of_ forum involve
+hope visit
+hope use with_
+hope send to_
+hold with_ president
+hold at_ base in_
+hold round of_ talk in_
+hold say
+hold report agency
+help to_
+have give with_
+have sanction on_
+have officer in_
+have number of_
+have comment on_
+have agreement with_ zealand
+have say after_ talk with_
+harm
+hail as_
+hail appointment of_
+guard in_
+grow with_
+gain with_
+gain after_ year of_
+gain after_ period of_ rule by_
+gain after_ period following_ occupation
+form morocco
+form unlike_
+force to_
+follow lead of_
+focus in_
+fire rocket at_
+fire kill
+file at_
+favor with_
+fail resolve over_
+express over_ tension between_
+express over_ failure of_
+expel in_
+expel by_
+estimate kill
+estimate be in_
+establish by_
+establish _
+escape in_
+envision
+encourage in_
+due present to_
+due make to_
+due join with_
+due go to_
+draw authenticate from_
+draw for_
+draw end occupation of_
+draft resolution support including_
+donate dollars to_
+different from_
+deter
+describe from_
+deplore decision
+depart from_
+deny send into_
+deny report deploy to_
+deny provide
+denounce with_
+defer to_
+defend at_
+deepen with_
+decline hold with_
+decide open with_
+decide offer to_
+decide grant
+decide confirm guinea
+dead
+cut on_
+criticize toward_
+criticize into_
+criticize attack
+country have with_
+country with_
+convene discuss
+convene meeting involving_
+continue at_
+consumer after_
+congratulate people of_
+confirm release of_ hostage in_
+confine
+conduct
+condemn for_
+conclude on_
+comprise along_with_
+complicate
+complain over_
+complain
+commit during_
+come meet with_
+colonize
+co-sponsor of_ process along_with_
+close border
+circulate on_
+chair talk include
+carry strike in_
+carry attack in_
+capture seize heights
+call take in_
+call take role in_
+call condemn
+call under_
+call on_ people of_
+call on_ leader of_
+call for_ withdrawal of_ force from_
+call for_ solution to_
+call for_ resolution of_
+call for_ removal of_
+call for_ partnership between_
+call for_ negotiation between_
+call for_ establishment of_
+call for_ end of_
+call for_ cease-fire between_
+call for_ adoption of_
+call talk with_
+build from_
+break from_
+break after_
+break after_ seizure of_
+boycott charge involve in_
+blame for_
+blame al-qaida in_
+believe hold in_
+begin attack
+begin tour take to_
+be protect
+be within_
+be under_ threat of_
+be off_
+be in_ charge of_
+be at_ loggerheads over_
+be at_ forefront of_
+be as_
+be as_ part of_
+be against_ status
+be say spokeswoman for_
+be say ministry
+be force
+base around in_
+ban import from_
+back as_ solution to_
+back right
+back recognition of_
+back call for_
+avoid with_
+authorize from_
+authorize against_
+attach to_ tie with_
+assure visit
+assist as_
+assign to_
+assemble south of_
+ask help
+ask including_
+ask for_ support
+arrive attend
+arrive following_ visit to_
+arrive report agency
+arrive here to_
+approve aid for_
+apply
+announce aid for_
+announce start in_
+announce halt to_
+announce grant
+amass with_
+agree turn to_
+agree sell
+agree repatriate
+agree end with_
+agree after_
+agree say office
+agree announce ambassador
+advise defer to_
+adopt condemn
+administer since_ campaign oust
+act cause from_
+accuse over_
+accuse by_
+abduct
+abandon to_
+_ leave
+_ after_
+koreas _
+withdraw from_ settlement in_
+withdraw from_ area of_
+withdraw resolution on_
+win along_with_
+welcome support
+welcome signing of_
+welcome deal between_
+welcome approval of_
+warn visit
+warn avoid
+warn of_ catastrophe in_
+warn of_ attack on_
+warn intervene in_
+warn come service in_
+warm to_
+want work with_
+want use
+want start with_
+want play in_
+want cooperate with_
+want government in_
+want quote
+vow send to_
+vow keep troops in_
+vow defy
+vow continue with_
+vow for_
+vote keep
+vote impose embargo on_
+vote to_
+visit province
+use into_
+urge take in_
+urge seek with_
+urge pull from_
+urge oppose
+urge meet
+urge keep
+urge end in_
+urge into_
+urge at_
+urge withdrawal of_
+urge restraint in_
+urge dialogue between_
+uphold on_
+undertake with_
+undertake to_
+undermine
+two of_ member of_
+turn into_
+try pressure
+try lure
+try keep
+try hammer from_ heights
+try hammer agreement on_
+try to_
+trigger with_
+travel through_
+trap in_
+train since_ end liberate from_
+tie to_
+threaten use in_
+threaten turn
+threaten send to_
+threaten cut recognize
+threaten war against_
+third of_
+take in_ operation in_
+take in_ coalition drive
+take charge of_
+suspend on_
+suspend contact with_
+suspect in_ bombing outside_ embassy
+survive
+support while_
+support integrity of_
+support government of_
+support effort of_
+support say with_
+summon by_
+suggest in_
+suffer under_
+subsidiary of_
+subject by_
+strive with_
+strike deal with_
+stop support
+stop at_
+stop on_ trip include to_
+step operation in_
+state after_
+state have treaty with_
+start deploy in_
+start fire over_ island
+stand for_ name
+spot
+spend than_
+speak of_ relation between_
+spar with_
+soften on_
+smuggle to_
+slap against_ korea conduct with_
+slam bombing in_
+sign sell to_
+sign represent
+sign give
+sign between_ republic of_
+sign after_ war liberate from_
+sign agreement set from_
+sign agreement enable
+sign say spokesman for_
+sign say
+sign drive
+shoot near_
+share in_
+sever by_ student of_
+set prevent
+set end
+set to_ west of_
+set including_
+separate after_ end of_
+sentence to_ year in_
+send to_ offensive
+send to_ leader of_
+send envoy including_
+seek membership in_
+seek condemnation of_
+see as_ symbol of_ militarism
+scour
+schedule with_
+scale operation in_
+say in_ message to_
+say in_ meeting with_
+say before_
+say at_ summit in_
+say at_ meeting in_
+say 54 kill
+say worry in_
+say work on_
+say willing send to_
+say want return to_
+say want hold with_
+say train
+say summon ambassador
+say sign between_
+say sign
+say shift to_
+say send join
+say send troops to_
+say see to_
+say see by_
+say resume talk between_
+say rescue
+say receive repeat in_
+say ready negotiate with_
+say raid
+say provide in_
+say priority for_
+say postpone to_
+say plan with_
+say plan to_
+say out of_
+say order leave
+say need prevent
+say need with_
+say need for_
+say meet on_
+say launch at_
+say keep with_
+say issue in_
+say improve relation between_
+say import from_
+say head
+say have troops in_
+say have talk with_
+say go in_
+say get
+say fly in_
+say express with_
+say express in_
+say expect withdraw from_
+say erupt explode near_
+say endorse in_
+say end in_
+say early for_
+say continue dialogue with_
+say continue despite_
+say consult
+say concern about_ situation in_
+say change
+say break between_
+say benefit
+say be report of_
+say be reason for_
+say be despite_
+say be among_
+say bar
+say back on_
+say afraid of_
+say address
+say _ expect
+ruler
+rule from_
+rule extradite to_
+rocket in_
+ridicule
+revise for_
+retake
+responsible for_
+respond close with_
+repulse
+report fight
+report shoot
+report open on_
+report meet in_
+remove on_
+remain at_ war with_
+release about_
+release prisoner including_
+release batch of_
+reject say
+reject statehood
+reject deployment of_
+reject application
+reiterate precondition for_
+regain from_
+refuse withdraw from_
+refuse grant to_
+refuse argue withdraw from_
+reflect
+refer by_
+recruit from_
+recognize to_
+recognize over_
+recognize in_ 1948 following_ trial for_
+receive normalize with_
+receive through_
+ready say to_
+read to_
+react with_
+react to_ announcement
+reach in_ march get to_
+reach say
+re-occupied
+rank with_
+raise issue of_
+raid south
+quote by_
+question to_
+pursue into_
+pummel
+province
+provide percent of_
+propose establishment of_
+propose send country such_as_
+promise work with_
+promise cooperate with_
+prohibit to_
+producer behind_
+press hit in_
+preside over_ committee
+prepare on_
+praise for_
+pound target in_
+portray
+pledge spy on_
+plan pull out_of_
+plan introduce
+plan deploy system in_
+pay over_
+patrolling in_
+part of_ coalition in_
+outline for_
+organize meet like_
+order 73 of_
+oppose send
+oppose impose on_
+oppose talk of_ sanction against_
+oppose strike against_
+oppose intervention in_
+operate on_
+open capital of_ province
+one of_ partner of_
+one of_ country maintain with_
+one of_ country include
+offer cooperate with_
+occupy by_
+negotiate from_
+need support from_
+nation other than_
+muster support from_
+move away_from_
+member in_ july embrace
+meet discuss on_
+meet despite_
+meet ahead_of_
+meet representative of_
+meet president of_
+meet official in_
+meet negotiator
+meet leader in_
+meet report agency
+make clear to_
+make to_ troops in_
+make membership in_
+make meet
+maintain from_
+maintain zone in_
+mainstay include brunei
+list like_
+limit to_
+lift with_
+lift closure on_
+level against_
+leave tuesday for_
+launch campaign in_
+laud with_
+label alongside_
+kill of_
+kill hurt in_
+keep since_ downfall of_
+keep date to_
+join member of_
+join country including_
+join asean include
+issue including_
+issue statement describe
+issue denunciation of_
+invade to_
+insist on_ talk include
+insist on_ talk with_
+insist including_
+insist meet
+initiate in_
+initial say expect
+include with_
+include by_
+impound
+implicate in_
+host along_with_
+host minister from_
+hopeful
+hope work with_
+hold with_ authority play after_
+hold on_ program
+hold into_
+hold at_ resort
+hold power in_
+hit target
+highlight in_
+heed
+have sign with_
+have respond to_
+have halt in_ settlement in_
+have view on_
+have observer in_
+have discussion with_
+have aircraft in_
+have around in_
+have recognize
+hail election
+hail approval
+guarantor together_with_
+go before_
+get out_of_
+frustrate
+force on_
+follow at_
+fly mission over_
+fly draw from_
+fire with_
+fire shot at_
+find in_ council with_
+file over_
+fight gain independence from_
+fend
+fear from_
+favor approach give
+fail win in_
+fail win from_
+fail reach with_
+fail reach to_
+extend with_ zealand
+extend by_
+express over_ assassination of_
+express for_ bid
+express at_ assassination of_
+express condolence over_
+export under_
+expand into_
+estimate flee
+establish with_ republic of_
+envisage make of_
+enter to_
+enrich on_
+end visit to_
+encouraging
+encircle
+emphasize with_
+embark on_
+embark on_ tour of_
+ease closure of_
+due discuss with_
+due begin to_
+drown in_
+draw bar from_
+divide into_
+displace from_
+discuss with_ member of_
+direct at_
+die in_ combat in_
+detain enter
+detain with_
+detain on_
+detain respond on_
+destination
+designate converge border with_
+deploy troops along_
+deploy force in_
+depend from_
+deny fight in_
+deny for_
+deny help
+demand into_
+demand against_
+declare as_
+declare after_
+decide keep in_
+decide give
+decide endorse
+decide close
+decide with_
+deadlock over_
+criticize by_ lama flee
+criticize handling
+criticise policy
+cripple
+creditor
+crash to_
+country in_ world after_
+coordinate in_
+convene at_
+control percent of_ traffic between_
+continue attack
+consist of_
+congratulate as_ president of_
+confirm soldier kill in_
+confirm meet
+confirm injure
+condemn as_ violation of_
+condemn hostage-taking in_
+condemn abduction of_
+conclude visit to_
+concerned by_
+commit during_ war in_
+command troops in_
+come increase from_
+close into_
+classify feature on_
+clash retake
+clash at_
+claim hit
+claim hide in_
+circulate endorse despite_ objection from_
+charge with_
+change in_
+caution to_
+carve with_ aim protect by_
+carve strip in_
+carry for_
+carry base in
+candidate join
+cancel with_ minister of_
+call work with_
+call recognize
+call impose on_
+call halt
+call to_ war in_
+call to_ occupation of_
+call to_ hostility in_
+call on_ republic of_ korea
+call for_ troops in_
+call for_ talk on_
+call for_ resumption of_
+call wednesday for_
+call report agency of_
+build through_
+break join
+boycott at_
+blame to_
+begin move into_
+begin discuss
+begin over_
+begin off_ coast
+be revert to_
+be press
+be open
+be meet on_
+be host
+be establish with_
+be call on_
+be since_ june following_ week of_
+be on_ tour of_
+be for_ talk with_
+be for_ refusal extradite to_
+be for_ invasion of_
+be between_
+be among_ member
+be ahead_of_
+be about_
+be drive
+ban including_
+back at_
+attribute
+attend hold in_
+aspire join
+ask extradite
+arrive train
+arrive on_ visit at_ invitation of_
+arrive in_ province
+approve of_
+approve after_
+approve sign with_
+appreciate stance
+appreciate role
+anxious hand to_
+announce after_
+announce package for_
+announce send join
+announce recognize
+announce open with_
+announce fly to_
+announce close in_
+announce agree with_
+annex capture from_
+annex from_
+annex after_ withdrawal of_
+annex recognize by_
+anger seek
+ally in_ war on_
+ally in_ invasion of_
+allow for_
+agree transfer
+agree share with_
+agree refer to_
+agree put
+agree impose on_
+agree extend mandate of_
+agree along_with_
+agree say spokesman for_
+affair of_
+advise avoid
+administer end on_
+administer end against_
+add in_
+acronym for_ name
+accuse in_ attack against_
+accuse six infect
+accuse group
+accuse country such_as_
+accuse bombing of_ embassy in_
+accuse iran provide
+accuse damascus support
+accept return of_
+accede to_
+_ along_with_
+russia
+wound from_
+work to_
+work
+work say
+withdraw from_ all of_
+withdraw after_ outbreak of_
+withdraw fly draw from_
+willing develop with_
+welcome into_
+welcome signing of_ agreement between_
+welcome return
+welcome result of_
+warn of_ measure against_
+warn reconsider with_
+want water
+want see in_
+want develop with_
+want relation with_
+want say
+walk into_
+walk in_
+wage on_
+wage offensive in_
+vow veto
+vow punish
+vow achieve change in_
+vow despite_
+vote impose sanction on_
+visit us
+venture into_
+urge stay away_from_
+urge reject
+urge put on_
+urge pay
+urge lift blockade of_
+urge invest in_
+urge give to_
+urge expel
+urge avoid travel to_
+urge party
+urge junta
+urge republic of_ korea
+upgrade with_
+upgrade in_
+unveil place in_ republic in_
+unveil in_
+unite
+unhappy with_
+underline
+turn pressure on_
+try bridge gap between_
+try block
+trap
+transport
+trade
+throw to_
+threaten suspend with_
+threaten suspend to_
+threaten launch strike against_
+threaten hit
+threaten fight
+threaten bomb
+thank in_
+tell from_ states
+tell reporter in_
+tell minister of_
+tell gathering of_
+tell expect
+tell discuss with_
+take in_ mission in_
+take line toward_
+take helm of_
+take say minister
+take say
+take quote
+sweep in_
+support request
+support say
+strike at_ target in_
+stress role
+stray into_
+storm out_of_
+stone
+stick with_
+step from_
+step preparation for_ war on_
+state approve after_
+start evacuate
+start over_
+sponsor to_
+sponsor on_
+spend at_
+speak by_
+source for_
+slash
+slap after_ invasion of_
+slap set of_ sanction on_
+skeptical of_ reliance on_
+sign with_ singapore
+sign agreement call for_
+sign pact with_
+sign agreement with_ zealand
+sign accord in_
+shoot on_
+shift from_
+sever by_
+sever take
+settle
+set as_
+set condition for_
+set republic of_
+send participate in_
+send monitor
+send assist
+send to_ family of_
+send to_ country including_
+send to_ border with_
+send by_
+send soldier to_
+self-governing insist part of_
+seek mend with_
+seek impose on_
+seek assure
+seek talk with_
+seek role for_
+seek extension of_
+see end of_
+scuffle with_
+say under_
+say in_ talk with_
+say among_
+say situation in_
+say worry about_
+say willing develop with_
+say willing cooperate with_
+say welcome with_
+say welcome to_
+say watch
+say use on_
+say understand
+say suspend
+say supply
+say spend in_
+say speak to_ president of_
+say seek through_
+say see from_
+say return
+say report
+say release in_
+say ready take
+say ready open with_
+say ready join
+say reaction by_
+say reach between_
+say raise issue of_
+say put to_
+say prove
+say order in_
+say oppose from_
+say name to_
+say monitor in_
+say mean
+say make avert
+say lose
+say lift comply with_
+say lie with_
+say let
+say kill near_
+say intercept
+say infiltrate
+say illegal declaration
+say have discussion with_
+say fly from_
+say flee into_
+say explode near_
+say expect meet
+say expect between_
+say exist in_
+say establish
+say enjoy haven in_
+say enhance with_
+say endorse at_ meeting at_
+say end
+say deny
+say deliver from_
+say defend
+say cut with_
+say counter
+say continue to_
+say continue by_
+say consider offer
+say be prevent
+say be sign of_
+say be in_ favor of_
+say ask to_
+say appreciate
+say affect in_
+say say
+run to_
+run end against_
+rule in_ favor of_
+rule strike against_
+rule attack against_
+route for_ supplies to_
+route for_ drug smuggle from_
+retaliate in_
+resume at_
+resist for_
+repair with_
+reoccupy in_
+reluctant send to_
+relation with_
+reject attempt
+register in_
+region of_
+regard as_ part of_
+refuse cooperate with_
+redeploy in_
+recover
+recommend from_
+recognize sovereignty over_
+recognize part of_
+receptive to_
+recall after_ start of_
+ready join
+raze
+ratify treaty with_
+rank alongside_
+pull out_of_ part of_
+pull after_
+publish list of_
+protest from_
+propose include
+prevent reach
+press by_
+present at_
+praise from_
+praise effort of_
+postpone visit to_
+postpone visit
+pledge in_ aid for_
+pledge for_ reconstruction of_
+pledge along_with_
+plead in_
+plant
+plan make to_
+plan quote
+patrolling
+pass from_
+pass resolution on_
+participate along_with_
+participant in_
+overshadow
+overrun in_
+outline in_
+organize
+oppose use of_
+oppose presence of_
+one to_
+one of_ supporter of_ invasion of_
+one of_ friend
+one of_ country join
+offer provide to_
+occupy area in_
+need in_
+need say to_
+mend with_
+meet discuss development in_
+meet member of_
+meet envoy
+meet meet with_
+meet shoot
+meet battle
+mass along_ border with_
+make at_ conference with_
+make along_with_
+make tour of_
+make suspension
+make stop in_
+maintain protect
+maintain at_
+maintain blockade of_
+lodge in_
+lodge for_
+lobby to_
+lobby at_
+live with_
+list along_with_
+lift for_
+lift embargo on_
+liberate
+lend
+leave attend session of_
+leave conclude
+leave report visit to_
+launch off_
+launch at_ target in_
+launch war against_
+launch raid on_
+lash against_
+kill after_
+kill six in_
+kill civilian
+kill leave in_
+join of_
+join condemnation of_
+jail for_ year in_
+issue travel to_
+issue statement call on_
+issue criticism of_
+intervene on_behalf_of_
+instruct in_
+insist into_
+insist operate in_
+insist cooperate with_
+independent after_ year of_
+include for_
+include france
+impose round of_ sanction on_
+impose seize control of_
+importer after_
+imply on_
+implement in_
+hope cooperate with_
+hope tell
+honor by_
+hole in_
+hold over_ situation in_
+hold on_ issue of_
+hold during_
+hold between_
+hold at_ request of_
+hold round of_ talk on_
+hold lead mastery
+head for_ talk with_
+have join
+have since_ takeover of_
+have off_
+have at_ basis in_
+have troops base in_
+have thousand of_ troops in_
+have soldier under_
+have soldier serve with_
+have reserve after_
+have commitment to_
+have claim in_
+have say refer to_
+have take
+hand over_ remains of_
+hand on_behalf_of_
+gun in_
+guarantor under_ treaty of_ establishment of_
+give comply with_
+get percent of_
+gather together_with_ president of_
+gain in_
+fume at_
+fuel violence in_
+force closure of_
+follow into_
+follow lose support of_
+fly from_ basis in_
+fly in to
+fly in from
+fire by_
+finance in_
+figure in_
+fight invade
+fall on_
+express over_ program
+express over_ cooperation between_
+express over_ attack on_
+express on_behalf_of_
+express including_
+express for_ position
+express at_ situation in_
+explain
+expel with_
+exhort
+evacuate four in_
+estimate at_
+establish on_
+escape by_
+erupt in_
+enter push
+enforce on_
+encourage to_
+emerge to_
+embrace luxembourg
+elect president of_
+earmark for_
+drop into_
+drop from_
+draw including_
+draft with_
+dominate with_
+dominate in_
+do help
+do say with_
+disrupt
+dispute claim
+dismiss for_
+discuss send to_
+discuss during_ visit to_
+discuss at_
+discuss future of_
+disappoint at_
+disagree on_
+direct against_
+differ over_
+die since_ invasion of_
+die in_ action in_
+die invade
+develop tie with_
+destroy with_
+designate to_
+deploy border
+deploy along_ border with_
+deploy troops along_ border with_
+deny support in_
+deny report in_
+deny presence of_
+deny hold with_
+denounce as_
+defend invasion of_
+defend decision
+decide extend
+decide ban
+debate demand withdraw from_
+customer
+criticize record
+criticise decision
+cover percent of_
+country besides_
+country send to_
+country recognize republic of_
+continue fly to_
+continue fire into_
+continue by_
+continue say with_
+contest claim
+contact in_
+conquer
+confirm transfer to_
+confirm hold in_
+confer to_
+condemn operation
+condemn occupation of_
+condemn do
+concerned over_
+concern with_
+concentrate in_
+comprise minister of_
+comprise luxembourg
+commit suicide in_
+come to_ aid of_
+come into_
+come behind_
+come as_
+comb
+close against_
+clinch with_
+classify like_
+claim at_
+claim send to_
+claim accuse
+circulate among_
+chairman of_ asean
+chair meeting of_
+cause with_
+carry exercise in_
+capture bank from_
+cancel from_
+cancel visit to_
+call refer to_
+call prevent
+call include
+call to_ attack on_
+call for_ withdrawal of_ troops from_
+call for_ summit on_
+call for_ meeting between_
+call for_ halt to_
+call for_ embargo on_
+call for_ conference on_
+call tuesday for_
+call thursday for_
+bypass
+build at_
+brush by_
+broker ceasefire between_
+broaden
+brief between_
+break through_
+break over_
+boycott talk include
+blockade in_
+be take from_
+be meet from_
+be buy from_
+be attend in_
+be under_ sanction since_ invasion of_
+be under_ pressure of_
+be on_ trip to_
+be at_ loggerheads with_
+be tell with_
+be say refer to_
+be quote say by_
+back support
+await by_
+authorise to_
+ask lift on_
+ask allow
+arrive begin at_ invitation of_
+arrive to_ republic of_
+arrive for_ day of_ talk with_
+arrive aboard_
+arrest warrant for_
+area for_
+approve plan for_
+approve plan withdraw from_
+appeal
+apologize for_
+announce amid_
+announce lift on_
+announce join
+announce deploy to_
+announce deploy in_
+air with_
+agree visit
+agree take against_
+agree return with_
+agree offer to_
+agree maintain in_
+agree to_ return of_
+agree on_ need for_
+agree at_ meeting in_
+agree say trust of_
+agree say after_ talk with_
+agree quote
+adopt call on_
+administer kosovo patrol by_
+accuse for_
+accuse base in
+accuse iran provide in_
+accuse accuse
+accept from_ ambassador to_
+accept plan
+able join
+_ speak stabilize
+sarkozy
+write debt
+work roadmap require from_
+witness in_
+withdraw replace at_ action
+win support from_
+welcome support for_
+welcome report
+welcome promise
+welcome meeting between_
+welcome decision send to_
+welcome acceptance of_
+weigh to_
+weaken
+warn push
+warn of_ sanction against_
+warn of_ risk in_
+warn against_ foreigner in_
+warn against_ attack on_
+warn government
+warn citizen in_
+warn support refer to_
+warn support call for_
+warn prepare
+warn follow necessary by_
+want take to_
+want take
+want sign with_
+want deploy in_
+want deploy missile in_
+want abandon for_ effort
+want from_ country such_as_
+want for_ downing of_
+want for_ bombing of_
+want against_
+want act on_behalf_of_
+want talk bring
+want talk with_
+want role for_
+want agreement between_
+want say ambassador to_
+vow withdraw from_
+vow resist
+vow pursue
+voice for_ effort
+voice
+voice support
+visit hold with_
+visit become
+visit island divide into_
+vie in_
+verify
+use prevent
+use control in_ country such_as_
+use like_ say
+use base in_
+urge take on_
+urge take
+urge reach to_
+urge provide
+urge open to_
+urge leave following_ decision by_
+urge involve neighbor
+urge halt in_
+upset
+unleash reject
+unable along_with_ state with_ shoreline
+unable _
+turn with_
+try stop
+try initiate among_
+try say
+troops in_
+travel for_ talk on_
+transfer in_
+train with_
+tout
+touch on_
+tighten around_
+tighten after_
+throw support behind_
+three of_ member of_
+threaten take action against_
+threaten refer
+threaten declare
+threaten behead
+threaten send ally such_as_
+tell parliament
+tell hundred of_
+tell withdraw from_
+tell come from_
+telephone leader of_
+technically at_ war with_
+target settler in_
+talk to_ minister of_
+take hostage in_
+tackle at_ meeting of_
+sweep
+suspend at_
+suspend repatriation of_
+supporter of_ regime
+support future oppose by_
+support call on_
+support war in_
+support program
+support receive from_
+suffer with_
+submit by_
+submit resolution on_
+stress importance
+strengthen tie with_
+storm residence
+step shoot down_
+step pressure for_
+step call for_
+stay away_from_
+state open to_
+state with_ tie to_
+start at_ invitation of_
+start replace
+start round of_ talk on_
+stand firm on_
+sponsor declare with_
+sponsor declare
+spend inspect valve in_
+spend about_
+spearhead negotiate with_
+spearhead against_ cooperation between_
+spearhead
+speak after_ meeting with_
+speak highly of_ role
+spark from_
+spar over_
+sound
+slap against_
+slam from_
+slam as_
+site of_ fighting between_
+sink in_ sea of_
+signatory to_
+sign extend with_
+sign with_ consortium of_
+sign with_ afghanistan
+sign on_ holding of_ ballot in_
+sign during_
+sign become after_
+sign report agency
+sign quote
+shut embassy in_
+show footage of_
+shoot down over_
+shock in_
+shell kill one from_
+shell across_
+shake
+sever to_
+set withdraw from_
+set protect from_ attack
+set end implement
+set attend along_with_
+set on_ wednesday of_
+set panel call by_
+serve under_ command in_
+serve in_ force in_
+serve as_ center for_
+sensitive to_
+send visit
+send take in_ invasion of_
+send repel
+send prod nation including_
+send meet _
+send help in_
+send bolster
+send peacekeep in_
+send in_ troops push into_
+send against_
+send delegation to_
+send _ agency
+send represent to_
+seek negotiate with_
+seek end
+seek bolster in_
+seek at_ meeting of_
+seek at_ meeting of_ agency
+seek sanction against_
+seek say with_
+see peacekeep in_
+say like_
+say base in
+say civilian kill in_
+say write to_ leader of_
+say withdraw in_
+say willing discuss with_
+say use against_
+say unaware of_
+say think
+say thank
+say target in_
+say take meeting between_
+say strengthen in_
+say stray into_
+say stick to_
+say solve with_ participation of_
+say show to_
+say shelter in_
+say shelter for_
+say share concern
+say seed attitude of_
+say see launch on_
+say sadden death of_
+say rise to_
+say responsibility of_
+say repatriate to_
+say remain _
+say ready provide to_
+say ready back
+say ready accept
+say ratify
+say pull in_
+say prepare with_
+say prefer
+say poise
+say plan attack
+say obstacle to_
+say need than_
+say message to_
+say meet at_ checkpoint between_
+say mean division with_
+say lodge protest with_
+say launch
+say join from_
+say involve in_ dispute between_
+say invest in_
+say invest
+say invade
+say interfere in_
+say include mean
+say host including_
+say hope from_
+say honor
+say hide near_ frontier between_
+say have including_
+say have for_
+say have proof of_
+say halt on_ reactor in_
+say follow by_
+say find body of_
+say file from_
+say file lawsuit against_
+say fight
+say expand in_
+say examine
+say due in_
+say drop to_
+say down
+say discuss from_
+say disappoint
+say development in_
+say deter
+say deport
+say declare
+say decide between_
+say constitute attack on_
+say consider join in_
+say consider on_
+say connect to_
+say confront
+say cause to_
+say cause in_
+say bow to_
+say begin to_
+say be hold with_
+say be soldier including_
+say be relation with_
+say be including_
+say attend do
+say arrest member of_
+say aim help by_
+say affect with_
+say admit to_
+say invite kidnapping of_
+run since_ war in_
+run since_ end of_ war in_
+run launch halt on_
+run end by_
+run bomb stop against_
+rule meeting between_
+rise against_
+ring
+revive at_
+reveal along_ border between_
+return end to_
+return under_
+return from_ trip to_
+retaliate to_
+resume scrap arsenal
+restore during_ visit by_
+resist in_
+resign to_
+resign
+resent have from_ neighbor
+reseal with_
+require visit
+request to_
+request to_ airplane in_
+request for_ use in_ operation in_
+represent worldwide recognize
+report near_
+report propose summit involving_
+report fire in_
+report capture
+report arrest in_
+repay to_
+renew warning for_
+remove in_ community in_
+remain to_
+remain from_
+reluctant agree to_
+reject withdraw from_
+reject recognition of_
+reject claim of_
+reiterate rejection of_
+register drop in_
+refuse serve in_
+refuse do until_
+refuel
+recommend postpone to_
+recognize as_ republic of_
+recognize role
+recognize ownership
+receive from_ number of_ country including_
+receive aid from_
+ready make with_
+react on_
+reach with_ states
+reach deal with_
+reach deal on_
+re-enter
+rank in_ world behind_
+rank alongside_ likes of_
+ram
+rally in_
+raise by_
+raid camp in_
+put along_with_
+push repel
+push refer
+push give
+push despite_ collapse entice
+push pass
+pursue to_
+province be halt on_
+province be halt
+provider to_
+provide in_ aid to_
+provide for_ coalition of_
+provide around_ percent of_ oil
+provide bulk of_
+protest with_
+protest at_
+propose expand
+propose in_ recognition of_
+propose along_with_
+propose talk with_
+propose republic of_
+propose give
+produce for_
+probe program
+press boost
+press from_
+present resolution to_
+present defens in_
+premier visit
+predict on_
+postpone in_
+postpone from_
+pledge join
+pledge assist
+pledge on_
+pledge by_
+play than_
+plan submit to_
+plan present to_
+plan export to_
+plan buy
+place under_
+pile on_
+pay to_ victim of_
+pay by_
+pass return from_
+partner in_ war on_
+partner philippines
+participate in_ war on_
+participate in_ exercise in_
+part in_
+part annex under_ pact with_
+owe from_
+oversee for_
+outrage
+oust from_
+organise with_
+order to_ border with_
+order withdrawal of_
+oppose call in_
+oppose call for_
+oppose to_ threat
+oppose at_
+oppose argue disarm through_
+oppose argue disarm
+oppose strike on_
+oppose entry
+oppose airstrike on_
+operate with_ contribution from_
+operate
+open in_ britain
+open center in_
+one of_ symbol of_
+one of_ symbol of_ presence in_
+one of_ opponent of_
+one of_ member including_
+one of_ backer of_
+on
+okay
+offer at_
+offer reward of_
+offer condolence over_
+offer aid for_
+offer say negotiator
+obey
+nation oppose side with_
+move over_
+monitor from_
+monitor long zone between_
+missile at_
+mention to_
+member of_ quartet include
+member of_ mercosur compose of_
+member of_ association of_ nations with_
+meet face group
+meet discuss minister of_
+meet discuss return of_
+meet minister make of_
+meet with_ official in_
+meet in_ presence of_
+meet demand of_
+meet say ministry
+mass on_ border with_
+mass troops around_
+make open give
+make at_ meeting of_
+maintain embargo on_
+maintain base in_
+maintain part of_
+look after_ interest in_
+lobby refer to_
+lobby along_with_
+lobby against_
+live from_
+like see
+lift on_ import of_
+lift by_
+lie off_ coast of_
+leg of_ trip include
+leave for_ tour of_
+leave aboard_
+leader visit
+lead prevent war between_
+lead within_
+launch punish
+launch help
+launch kill in_
+launch kill
+launch sign with_
+laud in_
+largest of_ country join
+lament
+lambaste
+lack
+know in_
+know add tap into_
+kill fight in_
+kill in_ strike in_
+kill during_ raid in_
+kill by_ soldier in_
+kill by_ force in_
+kill one
+kill leader of_
+kill arab at_ fence between_
+justify
+join condemn
+join leave
+issue advise exercise in_
+issue declaration call in_
+invite join
+invite including_
+invite leader of_ jordan
+invade part of_
+introduce following_
+interview
+intercept off_
+intensify to_
+insist serve in_
+insist reunite with_
+insist face in_
+insist engage
+injure in_ attack in_
+initial in_
+indicate
+indicate support
+indicate accept
+independent of_
+include turkey
+impose protect moslems from_
+impose bangladesh
+impose shipment to_
+impose deadline on_
+identify to_
+host thousand of_
+host number of_
+hope participate connect
+hope meet with_
+hope expand with_
+hope help pull
+hope agree miss
+hold welcome
+hold mark anniversary of_
+hold draft send
+hold command independent of_
+hold with_ member of_
+hold with_ states
+hold near_
+hold in_ city
+hold amid_
+hold talk on_ weapon
+hold round of_ talk with_
+help from_
+help complete plant in_
+hear by_
+head visit africa
+head grouping include
+have peacekeep in_
+have pay
+have intercept
+have give gain from_
+have allow
+have include in
+have troops on_ mission in_
+have troops serve under_
+have soldier serve under_
+have position on_
+have population in_ world after_
+have mix as_
+have embargo against_
+have arrangement with_ korea
+have agreement including_
+have 800 in_
+have tell to_
+hand to_ authority on_behalf_of_
+hand from_
+hand russia
+hammer away at_
+hail friendship between_
+hail effort
+guard by_
+guard area locate
+guarantee
+grant from_
+grant by_
+go mourn death of_
+go meet
+give against_
+give light for_
+get at_
+gain to_
+fuel in_
+freeze asset
+forge dislike of_
+follow example
+follow concert in_
+fly visit
+fly patrol over_
+fly back to_
+fire at_ settlement in_
+fire at_ group of_
+find support arabia
+finance
+finance report light of_
+file
+fight to_
+fight alongside_ number of_
+feud live family
+favor while_
+fall under_
+face after_
+face tell
+extradite from_
+express join
+express over_ refusal
+express over_ declaration
+express about_ violence in_
+express about_ tension between_
+express sign between_
+express hamper stand-off between_
+express hamper for_
+express find in_
+explode over_
+exchange to_
+estimate kill since_ force
+establish including_
+establish in_ bid protect
+escalate with_
+ensure
+encourage consider send to_
+encounter
+emerge with_
+emerge in_
+embroil country including_
+embark on_ contact with_
+echo by_
+ease sanction on_
+due sign in_
+due hold on_
+due hold in_
+due hold london
+draw roadmap call for_
+draft roadmap call to_
+draft call to_ attack against_
+draft kill
+downplay in_
+downplay by_
+donate to_ victim in_
+do tell
+distribute in_
+dispatch from_
+discuss on_ trip start to_
+discuss issue of_
+discuss iraq with_
+disclose in_
+disband
+differ on_
+die since_ start of_ invasion of_
+die since_ beginning of_
+die during_
+die at_
+detain to_
+deprive
+deploy on_ border with_
+dependent from_
+depend depend state like_
+deny account of_
+deny supply to_
+deny meet
+deny give to_
+deny accuse
+denounce killing of_
+denounce attack
+denounce offer ally such_as_
+demand role for_
+deliver to_ ambassador
+deliver at_
+defend from_ coalition of_
+defend integrity of_
+decline on_
+decline from_
+decline fighter threat to_
+decide withdraw by_
+decide send case
+decide resume with_
+decide pull from_
+debate in_
+damage in_
+customer of_
+cross in_
+criticize over_
+criticize statement
+criticize occupation of_
+criticize government of_
+critical with_
+create help
+crash into_
+crack since_ september attack on_
+country rank alongside_
+country maintain with_
+country with_ country vote in_
+country sign after_
+counter leave to_
+coordinate on_
+cooperate use rush to_
+continue support in_
+continue strengthen with_
+continue recognize
+continue maintain with_
+continue carry flight over_
+continue accuse
+contain
+consider take
+consider into_
+consider at_ war with_
+consider say after_ summit in_
+congratulate on_
+confirm take hostage in_
+confirm return to_
+confirm free
+conduct with_ help of_
+conduct talk with_
+condemn on_ peacekeeper in_
+condemn violation
+condemn threat
+condemn intervention
+condemn aggression
+condemn draw by_
+condemn call
+comprise of_
+complain about_ policy
+commit on_
+come to_ republic of_
+come amid_
+come partner within_
+collide in_
+coincide with_
+co-sponsored
+co-hosted aim galvanize
+close on_
+client
+clear to_
+clash
+claim over_ island kilometre from_
+claim along_with_
+claim hold
+claim enter
+cite with_
+cherish with_
+charge puppet of_
+chair with_
+celebrate anniversary of_
+caution against_
+carry from_ gaza against_
+carry strike against_
+capture on_
+cancel return in_
+call put on_
+call provide
+call bring
+call assist
+call lift against_
+call in_ country such_as_
+call for_ withdrawal
+call for_ talk in_
+call for_ negotiation with_
+call for_ meeting of_ agency
+call for_ cooperation
+call say at_
+call train
+buy stake in_
+buy percent of_
+buy gas from_
+bury
+bump into_
+build during_
+break talk with_
+brand alongside_
+boycott hold between_
+bomb to_
+bomb base in_
+bolster find in_
+body of_
+block begin plan for_
+block invoke treaty
+blast report keep
+blame for_ attack on_
+belong in_
+begin consist of_ somalia
+begin exercise in_
+begin say office of_
+be withdraw in_ exchange for_
+be take
+be send
+be resume with_
+be release
+be pull on_ eve of_
+be pay visit to_
+be open at_ crossing between_
+be line
+be hold with_ leader of_
+be have with_
+be discuss in_ mediterranean between_
+be begin at_ crossing between_
+be state of_
+be observer from_
+be with_ body set from_
+be on_ alert in_
+be including_ island of_
+be in_ competition with_
+be besides_
+be among_ country recommend to_
+be among_ country
+be say from_
+be oppose
+be end
+be declare including_ states
+batter
+bar travel to_
+back text present at_
+back stance
+await cross into_
+avoid by_
+authorize with_
+attend from_ australia
+attend as_ official from_
+attend alongside_
+attend _ states
+attack with_
+assure cooperate with_
+assess progress
+ask lend against_
+ask for_ help
+ask state consider including_
+arrive try clear from_
+arrive attend summit of_
+arrive via_
+arrive on_ situation in_
+arrive for_ visit include with_
+arrive for_ visit hold with_
+arrive settle talk with_
+arrest member of_
+arrange for_
+argue with_
+argue belong to_
+approve recognize republic including_
+apply slovenia
+applaud by_
+apologize by_
+announce yemen
+announce with_ backing of_
+announce death of_ soldier in_
+announce work with_
+announce restore with_
+announce ready release
+announce pull from_
+announce open in_
+announce impose on_
+announce evacuate from_
+announce deliver to_
+announce cut to_
+announce complete from_
+announce begin under_ auspices
+announce back
+announce appoint to_
+announce allow
+allow travel to_
+allow train to_
+allow about_
+allege compromise dig beneath_
+agree suspend in_ return for_
+agree share over_
+agree restore with_
+agree reduce
+agree promote cooperation between_
+agree answer
+agree under_
+agree during_ visit by_
+agree criticize
+advocate with_
+advocate of_
+adopt impose against_
+adopt start with_
+act under_
+acknowledge support accuse
+accuse kill
+accuse service
+accuse military
+accuse bombing of_
+accuse syria support
+accuse iran meddle in_
+accuse iran arm
+accept on_
+accept proposal
+accept credentials present from_
+abstain vote on_
+abstain in_
+_ including_
+_ country including_
+_ say including_
+italy
+wrest from_
+worried about_
+work with_ government of_
+withdraw from_ area in_
+wish to_
+win contract in_
+widen in_
+welcome join with_
+welcome signing of_ accord between_
+welcome return of_
+welcome response
+welcome recognition
+welcome end of_
+welcome announcement of_
+warn stay out_of_
+warn stay away_from_
+warn of_ violence in_
+warn of_ strike in_
+warn along_with_
+warn neighbor
+warn suffer relation between_
+warn hold to_
+warn cut to_
+warn attack
+want visit
+want place interceptor in_
+want part of_
+want oversee
+want leave
+want give inspector in_
+want buy from_
+want build in_
+want organize fight in_
+want organize fight
+want under_ chapter of_
+want in_ bombing of_
+vow protect
+vow promote with_
+vow course in_
+vow continue against_
+vow support for_
+vote condemn
+visit for_ talk on_
+violate airspace
+view with_
+view by_
+veto from_
+use enforce zone over_
+use zone over_
+use veto block
+urge stay in_
+urge ratify
+urge protect
+urge pay to_
+urge do in_
+urge avoid
+urge adopt
+urge over_
+urge talk between_
+urge minister
+urge implementation of_
+urge end of_
+urge election in_
+uphold to_
+unleash reject allow to_
+undergo surgery in_
+unblock to_
+unable impose after_ invasion of_
+turn request
+try negotiate with_
+try isolate
+try say minister
+travel discuss with_
+transfer percent of_
+track
+tout in_
+torch
+top in_
+threaten reduce with_
+threaten hold
+threaten ban
+threaten attack in_
+territory
+tell board
+tell ambassador
+tell recognize
+tell commit
+tell arrive at_
+tear
+take protect
+take improve with_
+take on_ border
+take observer include
+suspend protest
+suspend over_
+supporter of_ stance on_
+support between_
+support process in_
+support policy
+support integrity
+support establishment of_
+support effort join
+supply all of_ fuel
+supplier of_ arm to_
+summon d'affaire
+suggest involve
+suggest give
+submit resolution to_
+study with_
+struggle restore in_
+strike near_
+strike inside_
+strike from_
+stop of_ tour
+stick on_
+step at_
+step attack in_
+state
+state along_with_
+state make with_
+start visit in_
+stand against_
+stand after_
+stage with_
+stab
+sponsor for_
+sponsor by_
+split over_
+spend from_
+special region
+spearhead in_
+source after_
+sneak into_
+slash to_
+slap closure on_
+sit alongside_
+silent on_
+sign provide
+sign join
+sign extend
+sign end off_ coast
+sign develop
+sign with_ union
+sign on_ repatriation of_
+sign on_ cooperation with_
+sign visit
+sidestep
+show picture of_
+shoot with_
+shoot down
+setback to_
+set protect from_
+set foot in_
+set center in_
+serve in_ mission in_
+sentence to_
+send protect in_
+send toward_
+send to_ victim in_
+send plane to_
+send condolence over_
+send say minister
+seize into_
+seek keep
+seek disarm
+seek calm
+seek build with_
+seek allay
+seek after_
+seek position on_
+seek aid for_
+see as_ victim of_
+see fall to_
+secure with_
+search province near_
+scramble intercept
+schedule in_
+say on_ sideline of_
+say during_ trip to_
+say during_ talk in_
+say after_ talk in_
+say after_ talk between_
+say speak from_
+say yield to_
+say worse in_
+say work together_with_
+say willing make with_
+say watch development in_
+say want by_
+say visit to_
+say urge in_
+say unrelated to_
+say understand need
+say thwart
+say target of_
+say take before_
+say take at_
+say support right
+say success visit to_
+say step decision
+say spot
+say shut
+say seek for_
+say see with_
+say run with_
+say run in_
+say rule action against_
+say reward
+say rest with_
+say replace
+say remind
+say remain between_
+say release from_
+say refuse to_
+say reconsider with_
+say recognize government
+say receive including_
+say receive message from_
+say ready receive
+say ready for_
+say protest
+say propose with_
+say plan travel to_
+say pay for_
+say oppose action against_
+say necessary keep
+say move from_
+say meet minister of_
+say meet with_ minister of_
+say make clear to_
+say make talk between_
+say look for_
+say limit with_
+say lift sanction on_
+say kill on_
+say kick
+say issue for_
+say invite visit
+say investigate by_
+say intimidate
+say intensify with_
+say include pakistan
+say important to_
+say identify
+say hope meet
+say hope with_
+say hope by_
+say hear in_
+say have halt into_
+say have information on_
+say have information about_
+say have agreement with_
+say freeze in_
+say follow in_
+say fly into_
+say find refuge in_
+say expect arrive in_
+say envision in_
+say engage with_
+say encourage go to_
+say drive
+say divide
+say disrupt
+say disagree with_
+say determine with_
+say delay to_
+say declare in_
+say contribute
+say continue until_
+say continue on_
+say confine to_
+say condemn in_
+say concerned by_
+say come with_
+say change in_
+say buy in_
+say bring with_
+say break
+say boost in_
+say boost
+say bias against_
+say bear in_
+say be restriction on_
+say be relationship between_
+say be plan for_
+say be difference between_
+say be within_
+say be in_ violation of_
+say authorize
+say attempt by_
+say agree put in_
+say act against_
+say report times of_
+rush
+run drive over_ crackdown against_
+rule send
+rule into_
+roll push
+rock
+revive
+revise resolution on_
+revile as_
+return attend meeting of_
+return on_
+return at_
+return after_ year as_
+retaliate expel
+retake from_
+restrict into_
+respond throw
+respond seal
+require from_
+reprimand
+report in_ region of_
+report open at_
+report hold with_
+repeat in_
+repeat from_
+remain take by_
+reject plan accept by_
+reiterate to_ war against_
+reiterate send to_
+regret to_
+regret death of_
+regard with_
+refute to_
+refuse resume with_
+refuse recognize claim
+refuse put
+refuse meet with_
+refuse establish with_
+refuse comply with_
+reflect with_
+recommend with_
+recommend leave
+recognize including_
+recognize as_ representative of_
+recognize government of_
+receive with_
+receive over_
+receive along_with_
+ready support
+ready attack
+ready with_
+reach after_
+reach say ambassador
+ram into_
+rally against_
+quote at_
+push fail honor
+push despite_
+purchase through_ subcontractor in_
+pull to_
+publish with_
+publish to_
+provide hold to_
+provide under_
+provide to_ force in_
+provide on_
+provide assistance to_
+prosecute
+propose send train
+propose group
+propose against_
+promote to_
+promise extend into_
+press refer to_
+press minister
+preside over_
+present with_
+present representative of_
+prepare pull out_of_
+prepare for_ war against_
+prefer admit
+praise role of_
+praise reform
+praise commitment
+pose threat to_
+pledge give to_
+pledge back
+pledge for_ reconstruction
+plead before_
+play tell
+plan return to_
+plan discuss
+plan deploy to_
+plan deliver to_
+plan attack against_
+pipe to_ delegate in_
+perpetrate in_
+penalize
+patrol over_
+pass in_
+part of_ coalition occupy
+part of_ republic of_
+pad for_
+oversee
+oust from_ power in_
+order withdraw from_
+order departure of_
+oppose send to_
+oppose prospect of_
+oppose proposal
+oppose idea of_
+oppose entry of_
+operate with_
+operate alongside_
+open at_ group of_
+one of_ opponent of_ invasion of_
+one of_ investor
+one of_ creditor
+one of_ country recognize
+one have tie with_
+official visit
+offer assessment of_
+occupy with_ aim protect from_
+occupy south
+nominate as_
+nervous about_
+name on_
+name for_ qualifier against_
+nab
+move near_
+mobilize in_
+mention in_
+member on_
+member along_with_ states
+meet visit minister of_
+meet with_ ii
+meet on_ situation in_
+meet in_ resort
+meet in_ capital
+meet at_ request of_
+meet as_
+meet say minister
+mean to_
+make join
+make in_ meeting with_
+make during_ visit to_
+make during_ talk with_
+make trip to_
+make say head of_
+maintain back operation in_
+look work with_
+look into_
+look from_
+lodge at_
+lobby with_
+lobby in_
+likely join
+lie off_ coast of_ mozambique in_
+lie in_ gulf of_
+lie between_
+leave return to_
+leave discuss
+leave attend in_
+leave to_ republic of_ korea
+leave thursday for_
+lead prevent
+lead to_ action against_
+lead criticism of_
+lay at_
+launch target
+launch crush
+launch without_ authorization of_
+launch war on_
+laud effort
+last of_
+largest after_
+language of_
+language in_
+kill to_
+kill in_ shooting in_
+kidnap train in_
+join rest of_
+join force with_
+join union
+join organization
+issue call in_
+issue urge
+issue resolution against_ program
+invite on_
+investor behind_
+investigate on_
+invest total of_
+interrogate
+interpret by_
+intercept in_
+intensify
+insist support in_
+insist remain in_
+ink in_
+inject
+initiate to_
+inform in_
+include on_
+improve
+impose refuse over_
+ignore from_
+identify with_
+hurt by_
+hope start with_
+hope get
+hope attract
+hold with_ delegation of_
+hold over_ program
+hold on_ status of_
+hold in_ capital
+hold the
+hold exercise with_
+hold tell
+hold announce ministry
+hit target in_
+highlight role
+have reach with_
+have fly over_
+have agree to_
+have over_ island of_
+have prompt
+have troops in_ mission in_
+have troops fight alongside_
+have treaty with_ spain
+have plan send to_
+have intention invade
+have dispute over_ island of_
+have battalion in_
+have say at_
+halt arabia
+hail transfer
+hail talk between_
+hail pledge
+hail agreement
+grapple with_
+go against_
+give accept
+give to_ effort
+give package with_
+give aid to_
+gear for_
+gather
+fund to_
+friend to_
+friend say
+forward to_
+form along_with_
+follow in_ footstep of_
+follow development in_
+focus to_
+fly in_ defiance of_
+fly between_
+flock to_
+file case against_
+ferry to_
+feel in_
+fear by_
+fear lead vacuum in_
+fall
+fail reach return to_
+fail reach return
+fail reach in_
+fail make on_
+fail from_
+face threat of_
+extend including_
+extend after_ incursion
+express resume with_
+express over_ failure
+express on_ death of_
+express including_ call solve
+express at_ plan
+express concern at_
+express return to_
+expel thousand of_
+expect sign with_
+expect after_
+expand against_
+estimate leave
+estimate cost
+establish protect
+escape to_
+enter by_
+encounter from_
+employer in_
+embarrass
+embark on_ visit to_
+embark in_
+due pull out_of_
+due hold talk with_
+drop with_
+drop for_
+draw on_
+downplay to_
+donate help
+donate yuan
+donate goods to_
+divide with_
+divide in_
+dismiss report of_
+dismiss accusation
+discuss against_
+discuss after_
+discuss test
+discuss issue with_
+discuss fate of_
+discuss report agency
+die in_ crash in_
+develop from_
+deserve
+describe into_
+describe between_
+describe decision
+deny support
+deny arm
+deny at_
+deny violation of_
+deny knowledge of_
+deny provide to_
+deny kill
+deny head for_
+deny head
+deny implicate
+denounce test
+denounce call
+demand role in_
+demand lifting of_
+demand acknowledge violate
+deem
+declare independence of_
+decide put
+decide impose on_
+decide dispatch to_
+decide deploy to_
+cut from_
+cut after_
+cut recognize right
+curtail
+criticize allow
+criticize call
+criticize action
+criticise handling
+crash with_
+country ratify
+country with_ troops in_
+country at_ peace with_
+country along_with_ drc
+count on_ support of_
+contribute during_
+continue view
+continue including_
+contend be in_
+consumer of_
+consider participate in_
+consider say minister
+congratulate as_ minister
+confirm at_
+confirm hold
+confirm arrive in_
+confirm arrest
+conduit for_
+condition with_
+condemn massacre of_
+condemn incursion
+condemn destruction of_
+condemn crackdown
+condemn bombing
+condemn act in_
+concern to_
+communicate with_
+commend in_
+come during_
+come stage in_ favor of_
+collect to_
+collect from_
+collect for_
+clear by_
+claim for_
+claim for_ attack on_
+claim against_
+claim capture of_
+claim part of_
+cite to_
+charge with_ murder of_
+charge aim push out_of_
+charge aim push
+chair to_
+chair from_ authority
+celebrate in_
+cede in_
+cast doubt on_
+carry target
+carry incursion into_
+cancel trip to_
+cancel debt of_
+call stop to_
+call halt on_
+call halt in_
+call abide by_
+call on_ faction in_
+call for_ meeting with_
+call for_ intervention in_
+call for_ dialogue in_
+call for_ coordination between_
+call among_
+call president
+call acceptance
+call report agency
+bury with_
+bring on_
+brief on_ development in_
+break by_
+break contact with_
+break seize
+brand with_
+boycott protest
+boycott since_
+border
+bomb after_
+block at_ summit in_
+block against_
+blame against_
+bid for_
+betray
+believe sell to_
+believe say with_
+begin fly to_
+begin under_ watch of_
+begin tour in_
+begin talk in_
+beat in_
+be support
+be help
+be hand to_
+be give to_
+be discuss in_
+be ask
+be within_ range of_
+be to_ oil
+be on_ tour to_
+be on_ move in_
+be in_ hand of_
+be among_ investor in_
+be say ambassador to_
+be say meet with_
+ban visit
+back send to_
+back plan
+back opposition
+back candidacy
+back alliance
+back have support of_
+await response
+authorize send to_
+authorize for_
+attend funeral of_
+attack site in_
+attack civilian
+assemble in_
+ask replace
+ask release
+ask join
+ask investigate
+ask at_
+ask say minister
+arrive take with_
+arrive in_ region
+arrive ahead_of_ talk with_
+arrive start as_ guest of_
+arrest over_
+approve give
+approve as_
+approve blueprint reject by_
+appreciate on_
+appoint envoy for_
+appear ally neighbour
+appear with_
+appeal provide to_
+appeal to_ government of_
+anxious for_
+announce sell to_
+announce contribution of_
+announce start to_
+announce boost in_
+announce arrive in_
+annex timor
+ally in_ campaign in_
+allow protect from_
+allow last battle between_
+allocate in_
+agree withdraw from_ percent of_
+agree take against_ korea at_
+agree resume to_
+agree offer
+agree launch into_ section of_
+agree freeze
+agree extend to_
+agree continue on_
+agree build in_
+agree assist
+agree on_ plan for_
+agree including_
+agree report news
+affirm for_
+advise avoid travel to_
+advise avoid go to_
+advise against_ travel to_
+administer following_ war
+administer force
+accuse against_
+accuse iran foment in_
+accept resignation of_
+abused
+abstain on_
+abstain along_with_
+about soldier in_
+abducted along_with_
+abandon on_
+_ with_
+republic of_
+belize
+write to_ leader of_
+wrap talk on_
+work secure with_
+work with_ authority in_
+work accord between_
+withhold on_
+withdraw on_ parliament
+withdraw blame
+win by_
+win gold in_
+willing work together_with_
+willing say ambassador to_
+willing say with_
+welcome visit of_
+welcome resumption of_
+welcome re-election of_
+welcome intention
+welcome establishment of_
+welcome election
+welcome agreement on_
+welcome adoption
+welcome say
+wary of_ activity deploy
+wary of_ activity in_
+warn move displace from_
+warn in_ conflict between_
+warn during_
+warn against_ travel to_
+warn rebel
+want strengthen with_
+want release
+want open with_
+want member of_
+want kill
+want base in_
+want including_
+want vote on_
+want resolution of_
+want cooperation with_
+want want part of_
+wage campaign against_
+vow strike at_
+vow step coordination with_
+vow push with_
+vow keep on_
+vow continue on_
+vow by_
+vote split from_
+vote join
+vote allow
+voice for_ peace between_
+visit for_
+visit despite_
+visit headquarters of_
+visit city
+visit france
+visit britain
+violate with_
+vie for_ vote of_
+use fire into_
+use as_ member of_
+urge use with_
+urge use in_
+urge stop on_
+urge resolve
+urge push
+urge provide to_
+urge keep in_
+urge improve in_
+urge honor on_
+urge follow example
+urge exert on_
+urge ensure safety of_
+urge ease reward
+urge deal with_
+urge between_
+urge restraint on_
+urge leadership
+urge faction in_
+urge cooperation between_
+urge boycott of_
+urge characterize as_ problem between_
+update
+unite on_
+underline with_
+underline to_
+underline in_
+undergo in_
+uncover in_
+unable stamp from_
+turn for_
+turn control of_
+try turn on_
+try take in_
+try sell
+try secure from_
+try secure
+try revive with_
+try engage
+try ease tension between_
+treat in_
+transmit to_
+transfer into_
+trade on_
+toughen against_
+touch
+torpedo
+topic with_ leader in_
+top with_
+tighten to_
+thrust into_
+throw communism apply for_
+throw case against_
+threaten sue
+threaten refer case
+threaten pull from_
+threaten launch strike on_
+threaten hit basis in_
+threaten blow
+threaten attack give to_
+threaten recognize
+third follow by
+tell including_
+tell during_
+tell reporter following_ meeting with_
+tell government
+tell delegation of_
+tell trust of_
+tell travel to_
+tell receive
+tell prepare
+tell oppose
+targett civilian
+take pressure lift on_
+take make to_ member of_
+take off_
+take approach stand to_
+take side
+take position in_
+take place in_
+take note of_
+take control of_ most of_
+take action in_
+take say with_
+suspend except_
+suspend work of_
+suspect cover program
+surge into_
+supporter of_ bid
+support like_
+support participation
+support expansion of_
+support decision
+support accession
+support washington in_
+support case statehood
+support back by_
+supply percent of_
+supply under_ term on_ basis to_
+supplier of_ aid to_
+summon in_
+suggest by_
+succeed get
+submit to_ dawei negotiator
+submit list of_
+study from_
+struggle join
+strike across_
+strike hideout in_
+strike south
+stress as_ outbreak in_
+stress support for_
+strengthen _
+storm out_of_ talk include
+storm office of_
+stop by_
+stop against_
+stop of_
+stop of_ visit take to_
+step security for_
+step operation against_
+step attack on_ militant in_
+stay force flee
+stay on in
+station on_
+start evacuate from_
+start around_
+start along_with_ estonia
+start quote
+stand in_
+stage in_front_of_
+stage at_
+stage protest in_
+spread to_
+sponsor rival come through_
+sponsor of_
+split sahara annex by_
+speed
+speak describe activity
+speak highly of_ effort
+sound in_
+snatch from_
+slip into_
+slap to_
+slap ban on_
+slam use
+slam attack in_
+sky over_
+skip
+signatory of_ accord between_
+signal talk to_
+signal intention vote for_
+sign buy from_
+sign letter irk
+sign on_ purchase of_
+sign in_ capital
+sign during_ visit by_
+sign during_ summit in_
+sign liberate from_
+sideline
+shut crossing between_
+shun protest
+shower
+show see to_
+shoot kill
+shoot dead
+shell on_
+shell of_
+shatter
+share on_
+sever side with_
+sever occupy
+settle over_
+set ban
+set while_
+set at_ meeting in_ wednesday of_
+serve as_ launchpad for_ invasion of_
+serve alongside_
+sensitive shoot kill to_
+sensitive shoot
+send help train
+send help rebuild
+send help defend
+send evacuate from_
+send thousand of_
+send mission to_
+send greece
+seize including_
+seek return to_
+seek include
+seek bolster
+seek despite_
+seek resumption of_
+seek naming of_
+seek backing of_
+see in_ dispute over_ program
+see role for_
+secure agreement
+scene of_ clash between_
+say consistent test from_
+say with_ leader of_
+say in_ speech to_
+say in_ report on_
+say quote in_
+say accompany in_
+say accompany
+say plan
+say no to_
+say meeting between_
+say cooperation between_
+say bid
+say worry
+say withdraw to_
+say win in_
+say wear
+say weaken
+say want send to_
+say want resume with_
+say want maintain with_
+say want give
+say vote against_
+say uncover in_
+say try bring
+say take president of_
+say take between_
+say take place in_
+say support accession
+say summon to_
+say strike on_
+say stop from_
+say sign in_
+say show in_
+say shoot at_
+say shoot dead by_
+say shock
+say sever with_
+say set for_
+say send under_
+say seek block
+say seek against_
+say schedule into_
+say sanction on_
+say restore with_
+say responsibility
+say respect in_ treatment of_
+say resolve in_
+say request from_
+say report in_
+say recommend to_
+say recognize independence of_
+say receive request from_
+say receive discuss with_
+say ready talk to_
+say ready revive with_
+say ready offer to_
+say ready for_ talk with_
+say raise about_
+say question
+say push with_
+say punish
+say prompt
+say promote with_
+say prepare work with_
+say prepare withdraw from_
+say prepare meet with_
+say plan buy from_
+say plan on_
+say pay in_
+say part along_with_
+say order from_
+say open
+say open door
+say open for_ talk with_
+say occur on_
+say occur in_
+say occupy kilometre of_
+say object to_
+say moment for_
+say meet at_
+say mean for_
+say matter between_
+say make over_
+say make at_
+say make second to_
+say maintain to_
+say look with_
+say lead by_
+say know of_
+say kill in_ clash with_
+say justify
+say invite leader of_
+say injure by_
+say impose against_
+say imply over_
+say imply over_ province of_
+say hurt with_
+say host with_
+say hope to_
+say have effect on_
+say harass
+say go into_
+say give with_
+say feature with_ diplomat from_
+say favor with_
+say export to_
+say expect meet with_
+say expand to_
+say exist between_
+say exchange of_ fire between_
+say entitle
+say enter in_
+say engage in_
+say endorse
+say distribute to_
+say discuss by_
+say disarm
+say deploy on_
+say day for_
+say cut
+say crucial for_
+say create for_
+say convey from_
+say converge stage in_
+say continue provide to_
+say concern over_
+say commit with_
+say choose
+say chase
+say challenge
+say cancel from_
+say build with_
+say bring from_
+say brief on_
+say bolster fighter from_
+say block by_
+say believe be in_
+say begin withdraw from_
+say begin talk with_
+say be protect
+say be meet
+say be join
+say be of_ importance for_
+say back in_
+say back for_
+say attach to_ cooperation with_
+say announce to_ president of_
+say amount divide between_
+say agree absorb
+say affect relation between_
+say add
+say act test by_
+say account to_
+say say at_
+say report agency of_
+say find at_
+say back from_
+sadden say call in_
+run into_
+run into_ opposition from_
+run program in_
+run kosovo stop by_
+run help drive
+rule role for_
+route for_ drug from_
+round on_
+review to_
