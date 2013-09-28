@@ -28,6 +28,7 @@ if __name__=='__main__':
         path = json.loads(line)
         path2 = path_for_tabari(path)
         if not path2:
-            path2 = "NULLSKIP"
+            continue
+            # path2 = "NULLSKIP"
         print "%s\t <-- \t%s" % (path2, line.strip())
 
